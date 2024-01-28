@@ -17,12 +17,13 @@ Efficient algorithm design; Computational complexity analysis for optimization p
 
 Getting started
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- **Longkun Guo**, Chaoqi Jia, Kewen Liao,  Zhigang Lu, Minhui Xue: Efficient Constrained $k$-Center Clustering with Background Knowledge, *[In Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI-24)](https://aaai.org/aaai-conference/)*, AAAI, Vancouver, Canada, pp. TBA.
+  (Top-2 Conference in Artificial Intelligence)
+- Pei Yao (Supervised student), **Longkun Guo***, Peng Li, Jiawei Lin: Optimal Algorithm for Min-Max Line Barrier Coverage with Mobile Sensors on 2-Dimensional Plane. *[Comput. Networks](https://dblp.uni-trier.de/db/journals/cn/cn228.html#YaoGLL23)* 228: 109717 (2023) 
+- **Longkun Guo**, Wenjie Zou, Chenchen Wu, Dachuan Xu, Ding-Zhu Du: MinSum Movement of Barrier and Target Coverage using Sink-based Mobile Sensors on the Plane. *[ICDCS 2021](https://dblp.uni-trier.de/db/conf/icdcs/icdcs2021.html#GuoZWXD21)*: 696-706  
+- **Longkun Guo**, Yunyun Deng, Kewen Liao, Qiang He, Timos Sellis, Zheshan Hu: A Fast Algorithm for Optimally Finding Partially Disjoint Shortest Paths. *[IJCAI 2018](https://dblp.uni-trier.de/db/conf/ijcai/ijcai2018.html#GuoDLHSH18)*: 1456-1462 PDF 
+- **Longkun Guo**, Hong Shen: Efficient Approximation Algorithms for the Bounded Flexible Scheduling Problem in Clouds. *[IEEE Trans. Parallel Distributed Syst](https://dblp.uni-trier.de/db/journals/tpds/tpds28.html#GuoS17)*. 28(12): 3511-3520 (2017) 
+- Longkun Guo, Hong Shen, Wenxing Zhu: Efficient Approximation Algorithms for Multi-Antennae Largest Weight Data Retrieval. *[IEEE Trans. Mob. Comput](https://dblp.uni-trier.de/db/journals/tmc/tmc16.html#GuoSZ17)*. 16(12): 3320-3333 (2017) 
 
 Site-wide configuration
 ------
