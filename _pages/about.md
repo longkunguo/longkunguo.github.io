@@ -15,15 +15,24 @@ Research Interesting
 ======
 Efficient algorithm design; Computational complexity analysis for optimization problems in data science; high-performance computing systems and networks
 
-Getting started
+Representative Journal Articles (* indicates the corresponding author):
 ======
-- **Longkun Guo**, Chaoqi Jia, Kewen Liao,  Zhigang Lu, Minhui Xue: Efficient Constrained $k$-Center Clustering with Background Knowledge, *[In Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI-24)](https://aaai.org/aaai-conference/)*, AAAI, Vancouver, Canada, pp. TBA.
-  (Top-2 Conference in Artificial Intelligence)
-- Pei Yao (Supervised student), **Longkun Guo***, Peng Li, Jiawei Lin: Optimal Algorithm for Min-Max Line Barrier Coverage with Mobile Sensors on 2-Dimensional Plane. *[Comput. Networks](https://dblp.uni-trier.de/db/journals/cn/cn228.html#YaoGLL23)* 228: 109717 (2023) 
-- **Longkun Guo**, Wenjie Zou, Chenchen Wu, Dachuan Xu, Ding-Zhu Du: MinSum Movement of Barrier and Target Coverage using Sink-based Mobile Sensors on the Plane. *[ICDCS 2021](https://dblp.uni-trier.de/db/conf/icdcs/icdcs2021.html#GuoZWXD21)*: 696-706  
-- **Longkun Guo**, Yunyun Deng, Kewen Liao, Qiang He, Timos Sellis, Zheshan Hu: A Fast Algorithm for Optimally Finding Partially Disjoint Shortest Paths. *[IJCAI 2018](https://dblp.uni-trier.de/db/conf/ijcai/ijcai2018.html#GuoDLHSH18)*: 1456-1462 PDF 
+- Pei Yao (Supervised student), **Longkun Guo***, Peng Li, Jiawei Lin: Optimal Algorithm for Min-Max Line Barrier Coverage with Mobile Sensors on 2-Dimensional Plane. *[Comput. Networks](https://dblp.uni-trier.de/db/journals/cn/cn228.html#YaoGLL23)* 228: 109717 (2023)
+- Yang-Geng Fu, Geng-Chao Fang, Yong-Yu Liu, **Longkun Guo***, Ying-Ming Wang: Disjunctive belief rule-based reasoning for decision making with incomplete information. Inf. Sci. 625: 49-64 (2023)
+- Wenjie Zou (Supervised student),  **Longkun Guo***, Chunlin Hao, Lei Liu: Approximation algorithm for MinSum linear barrier coverage with sink-based mobile sensors on the plane. Theor. Comput. Sci. 941: 121-130 (2023)
+- Guowei Dai, **Longkun Guo**, Gregory Z. Gutin, Xiaoyan Zhang, Zan-Bo Zhang: Iterative Message Passing Algorithm for Vertex-Disjoint Shortest Paths. IEEE Trans. Inf. Theory 68(6): 3870-3878 (2022)
 - **Longkun Guo**, Hong Shen: Efficient Approximation Algorithms for the Bounded Flexible Scheduling Problem in Clouds. *[IEEE Trans. Parallel Distributed Syst](https://dblp.uni-trier.de/db/journals/tpds/tpds28.html#GuoS17)*. 28(12): 3511-3520 (2017) 
-- **Longkun Guo**, Hong Shen, Wenxing Zhu: Efficient Approximation Algorithms for Multi-Antennae Largest Weight Data Retrieval. *[IEEE Trans. Mob. Comput](https://dblp.uni-trier.de/db/journals/tmc/tmc16.html#GuoSZ17)*. 16(12): 3320-3333 (2017) 
+- **Longkun Guo**, Hong Shen, Wenxing Zhu: Efficient Approximation Algorithms for Multi-Antennae Largest Weight Data Retrieval. *[IEEE Trans. Mob. Comput](https://dblp.uni-trier.de/db/journals/tmc/tmc16.html#GuoSZ17)*. 16(12): 3320-3333 (2017)
+
+Representative Conference Articles (* indicates the corresponding author):
+======
+- **Longkun Guo**, Chaoqi Jia, Kewen Liao,  Zhigang Lu, Minhui Xue: Efficient Constrained $k$-Center Clustering with Background Knowledge, *[In Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI-24)](https://aaai.org/aaai-conference/)*, AAAI, Vancouver, Canada, pp. TBA. (Top-2 Conference in Artificial Intelligence)
+- Jin Li, Qirong Zhang, Shuling Xu, Xinlong Chen, **Longkun Guo**, Yang-Geng Fu: Curriculum-Enhanced Residual Soft An-Isotropic Normalization for Over-Smoothness in Deep GNNs, *[In Proceedings of the 38th AAAI Conference on Artificial Intelligence (AAAI-24)](https://aaai.org/aaai-conference/)*, AAAI, Vancouver, Canada, pp. TBA. (Top-2 Conference in Artificial Intelligence)
+- Bingshu Wang, Lanfan Jiang, Wenxing Zhu,  **Longkun Guo**, Jianli Chen, Yao-Wen Chang:
+Two-Stage Neural Network Classifier for the Data Imbalance Problem with Application to Hotspot Detection. DAC 2021: 175-180
+- **Longkun Guo**, Wenjie Zou, Chenchen Wu, Dachuan Xu, Ding-Zhu Du: MinSum Movement of Barrier and Target Coverage using Sink-based Mobile Sensors on the Plane. *[ICDCS 2021](https://dblp.uni-trier.de/db/conf/icdcs/icdcs2021.html#GuoZWXD21)*: 696-706  
+- **Longkun Guo**, Yunyun Deng, Kewen Liao, Qiang He, Timos Sellis, Zheshan Hu: A Fast Algorithm for Optimally Finding Partially Disjoint Shortest Paths. *[IJCAI 2018](https://dblp.uni-trier.de/db/conf/ijcai/ijcai2018.html#GuoDLHSH18)*: 1456-1462  (Top-2 Conference in Artificial Intelligence)
+
 
 Site-wide configuration
 ------
