@@ -23,7 +23,7 @@ Getting started
 - **Longkun Guo**, Wenjie Zou, Chenchen Wu, Dachuan Xu, Ding-Zhu Du: MinSum Movement of Barrier and Target Coverage using Sink-based Mobile Sensors on the Plane. *[ICDCS 2021](https://dblp.uni-trier.de/db/conf/icdcs/icdcs2021.html#GuoZWXD21)*: 696-706  
 - **Longkun Guo**, Yunyun Deng, Kewen Liao, Qiang He, Timos Sellis, Zheshan Hu: A Fast Algorithm for Optimally Finding Partially Disjoint Shortest Paths. *[IJCAI 2018](https://dblp.uni-trier.de/db/conf/ijcai/ijcai2018.html#GuoDLHSH18)*: 1456-1462 PDF 
 - **Longkun Guo**, Hong Shen: Efficient Approximation Algorithms for the Bounded Flexible Scheduling Problem in Clouds. *[IEEE Trans. Parallel Distributed Syst](https://dblp.uni-trier.de/db/journals/tpds/tpds28.html#GuoS17)*. 28(12): 3511-3520 (2017) 
-- Longkun Guo, Hong Shen, Wenxing Zhu: Efficient Approximation Algorithms for Multi-Antennae Largest Weight Data Retrieval. *[IEEE Trans. Mob. Comput](https://dblp.uni-trier.de/db/journals/tmc/tmc16.html#GuoSZ17)*. 16(12): 3320-3333 (2017) 
+- **Longkun Guo**, Hong Shen, Wenxing Zhu: Efficient Approximation Algorithms for Multi-Antennae Largest Weight Data Retrieval. *[IEEE Trans. Mob. Comput](https://dblp.uni-trier.de/db/journals/tmc/tmc16.html#GuoSZ17)*. 16(12): 3320-3333 (2017) 
 
 Site-wide configuration
 ------
