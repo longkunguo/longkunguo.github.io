@@ -239,7 +239,7 @@ defaults:
   # _news => talks
   - scope:
       path: ""
-      type: talks
+      type: news
     values:
       layout: talk
       author_profile: true
