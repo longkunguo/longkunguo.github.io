@@ -236,10 +236,10 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _news => talks
   - scope:
       path: ""
-      type: news
+      type: talks
     values:
       layout: talk
       author_profile: true
