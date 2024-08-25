@@ -184,7 +184,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  news:
+  awards:
     output: true
     permalink: /:collection/:path/
 
@@ -239,7 +239,7 @@ defaults:
   # _news => talks
   - scope:
       path: ""
-      type: news
+      type: award
     values:
       layout: news
       author_profile: true
