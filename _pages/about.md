@@ -36,7 +36,7 @@ Representative Conference Articles :
 
 - Bingshu Wang, Lanfan Jiang, Wenxing Zhu,  **Longkun Guo**, Jianli Chen, Yao-Wen Chang: Two-Stage Neural Network Classifier for the Data Imbalance Problem with Application to Hotspot Detection. In Proceedings of *[the 58th ACM/IEEE Design Automation Conference (DAC-21)](https://www.dac.com/About/Conference-Archive/58th-DAC-2021)*: 175-180. (**CCF A, core A***)
 
-- **Longkun Guo**, Wenjie Zou, Chenchen Wu, Dachuan Xu, Ding-Zhu Du: MinSum Movement of Barrier and Target Coverage using Sink-based Mobile Sensors on the Plane. In Proceedings of *[the IEEE 41st International Conference on Distributed Computing Systems (ICDCS-21)](https://dblp.uni-trier.de/db/conf/icdcs/icdcs2021.html#GuoZWXD21)* (pp. 696-706): 696-706. (**CCF B, core A**)
+- **Longkun Guo**, Wenjie Zou, Chenchen Wu, Dachuan Xu, Ding-Zhu Du: MinSum Movement of Barrier and Target Coverage using Sink-based Mobile Sensors on the Plane. In Proceedings of *[the IEEE 41st International Conference on Distributed Computing Systems (ICDCS-21)](https://dblp.uni-trier.de/db/conf/icdcs/icdcs2021.html#GuoZWXD21)* (pp. 696-706): 696-706. (**CCF B, Top-tier conference in Distributed Computing**)
   
 - **Longkun Guo**, Yunyun Deng, Kewen Liao, Qiang He, Timos Sellis, Zheshan Hu: A Fast Algorithm for Optimally Finding Partially Disjoint Shortest Paths. In Proceedings of *[the 27th International Joint Conference on Artificial Intelligence (IJCAI-18)](https://dblp.uni-trier.de/db/conf/ijcai/ijcai2018.html#GuoDLHSH18)*: 1456-1462. (**CCF A, core A***)
 
