@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**Dr. Guo** is a Professor at the School of Mathematics and Statistics, Fuzhou University, since 2019. He received B.S. and Ph.D. degrees in Computer Science from the University of Science and Technology of China (USTC) in 2005 and 2011, respectively. He did his postdocs at The University of Adelaide.
+**Dr. Guo** is currently a full Professor in Computer Science, Fuzhou University, since 2019. He received B.S. and Ph.D. degrees in Computer Science from the University of Science and Technology of China (USTC) in 2005 and 2011, respectively. He did his postdocs at The University of Adelaide.
 He has published more than 100 academic papers in reputable journals/conferences such as IEEE TMC, IEEE TC,  Algorithmica, IEEE TPDS, IEEE ICDCS, AAAI, IJCAI, and ACM SPAA.
 
 Research Interesting
