@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-**Dr. Guo** is currently a full Professor in Computer Science, Fuzhou University, since 2019. He received B.S. and Ph.D. degrees in Computer Science from the University of Science and Technology of China (USTC) in 2005 and 2011, respectively. He did his postdocs at The University of Adelaide.
-He has published more than 100 academic papers in reputable journals/conferences such as IEEE TMC, IEEE TC,  Algorithmica, IEEE TPDS, IEEE ICDCS, AAAI, IJCAI, and ACM SPAA.
+I am currently a full Professor in Computer Science, Fuzhou University, since 2011. I received B.S. and Ph.D. degrees in Computer Science from the University of Science and Technology of China (USTC) in 2005 and 2011, respectively. I was a postdoctoral fellow in the School of Computer Science at The University of Adelaide.
+
 
 Research Interesting
 ======
-Efficient algorithm design; Computational complexity analysis for optimization problems in data science; high-performance computing systems and networks
+Approximation algorithm design, Computational complexity, Optimization in data science, Chips and high-performance computing systems
 
 Representative Journal Articles :
 ======
@@ -27,14 +27,14 @@ Representative Journal Articles :
 
 Representative Conference Articles :
 ======
-- Weijie Fang, **Longkun Guo\***, Jiawei Lin, Silu Xiong, Huan He, Jiacen Xu, Jianli Chen: **Obstacle-Aware Length-Matching Routing for Any-Direction Traces in Printed Circuit Board**, In Proceedings of *[the 61st ACM/IEEE Design Automation Conference (DAC-24)](https://61dac.conference-program.com/)*, Moscone West, San Francisco, USA. **(CCF A, core A***)
+- Weijie Fang, **Longkun Guo\***, Jiawei Lin, Silu Xiong, Huan He, Jiacen Xu, Jianli Chen: **Obstacle-Aware Length-Matching Routing for Any-Direction Traces in Printed Circuit Board**, In Proceedings of *[the 61st ACM/IEEE Design Automation Conference (DAC-24)](https://61dac.conference-program.com/)*, Moscone West, San Francisco, USA. **(CCF A**)
   
 - **Longkun Guo**, Chaoqi Jia, Kewen Liao, Zhigang Lu, Minhui Xue: **Efficient Constrained k-Center Clustering with Background Knowledge**, In *Proceedings of* [*the 38th AAAI Conference on Artificial Intelligence (AAAI-24)*](https://aaai.org/aaai-conference/), Vancouver, Canada, pp. 20709-20717.
 (**CCF A, core A***) [\[PDF\]](https://ojs.aaai.org/index.php/AAAI/article/view/30058/31862)
 
 - Jin Li, Qirong Zhang, Shuling Xu, Xinlong Chen, **Longkun Guo**, Yang-Geng Fu: **Curriculum-Enhanced Residual Soft An-Isotropic Normalization for Over-smoothness in Deep GNNs.** In *Proceedings of* [*the 38th AAAI Conference on Artificial Intelligence (AAAI-24)*](https://aaai.org/aaai-conference/), Vancouver, Canada, pp. 13528-13536. (**CCF A, core A***) [\[PDF\]](https://ojs.aaai.org/index.php/AAAI/article/view/29256/30370)
 
-- Bingshu Wang, Lanfan Jiang, Wenxing Zhu,  **Longkun Guo**, Jianli Chen, Yao-Wen Chang: Two-Stage Neural Network Classifier for the Data Imbalance Problem with Application to Hotspot Detection. In Proceedings of *[the 58th ACM/IEEE Design Automation Conference (DAC-21)](https://www.dac.com/About/Conference-Archive/58th-DAC-2021)*: 175-180. (**CCF A, core A***)
+- Bingshu Wang, Lanfan Jiang, Wenxing Zhu,  **Longkun Guo**, Jianli Chen, Yao-Wen Chang: Two-Stage Neural Network Classifier for the Data Imbalance Problem with Application to Hotspot Detection. In Proceedings of *[the 58th ACM/IEEE Design Automation Conference (DAC-21)](https://www.dac.com/About/Conference-Archive/58th-DAC-2021)*: 175-180. (**CCF A**)
 
 - **Longkun Guo**, Wenjie Zou, Chenchen Wu, Dachuan Xu, Ding-Zhu Du: MinSum Movement of Barrier and Target Coverage using Sink-based Mobile Sensors on the Plane. In Proceedings of *[the IEEE 41st International Conference on Distributed Computing Systems (ICDCS-21)](https://dblp.uni-trier.de/db/conf/icdcs/icdcs2021.html#GuoZWXD21)* (pp. 696-706): 696-706. (**CCF B, Top-tier conference in Distributed Computing**)
   
