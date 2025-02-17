@@ -1,0 +1,2204 @@
+<dblpperson name="Longkun Guo" pid="95/9687" n="121">
+<person key="homepages/95/9687" mdate="2022-01-22">
+<author pid="95/9687">Longkun Guo</author>
+<url>https://orcid.org/0000-0003-2891-4253</url>
+</person>
+<r>
+<article key="journals/mst/ChiGJ25" mdate="2025-02-12">
+<author pid="374/7680">Gaojie Chi</author>
+<author pid="95/9687">Longkun Guo</author>
+<author pid="367/4046">Chaoqi Jia</author>
+<title>A Local Search Algorithm for the Radius-Constrained k-Median Problem.</title>
+<pages>11</pages>
+<year>2025</year>
+<month>March</month>
+<volume>69</volume>
+<journal>Theory Comput. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s00224-024-10211-w</ee>
+<url>db/journals/mst/mst69.html#ChiGJ25</url>
+<stream>streams/journals/mst</stream>
+</article>
+</r>
+<r>
+<article key="journals/dam/DaiGGZZ24" mdate="2024-08-22">
+<author orcid="0000-0001-5839-4573" pid="13/8619">Guowei Dai</author>
+<author pid="95/9687">Longkun Guo</author>
+<author pid="74/2412">Gregory Z. Gutin</author>
+<author orcid="0000-0001-8563-4958" pid="63/4485-1">Xiaoyan Zhang 0001</author>
+<author orcid="0000-0002-0851-4984" pid="21/6313">Zan-Bo Zhang</author>
+<title>Convergence and correctness of belief propagation for weighted min-max flow.</title>
+<pages>122-130</pages>
+<year>2024</year>
+<volume>354</volume>
+<journal>Discret. Appl. Math.</journal>
+<ee>https://doi.org/10.1016/j.dam.2021.12.025</ee>
+<url>db/journals/dam/dam354.html#DaiGGZZ24</url>
+<stream>streams/journals/dam</stream>
+</article>
+</r>
+<r>
+<article key="journals/eaai/HuangFLGL24" mdate="2024-05-31">
+<author pid="375/8430">Min-Ming Huang</author>
+<author orcid="0000-0002-8507-9189" pid="61/8622">Yang-Geng Fu</author>
+<author pid="54/10149">Genggeng Liu</author>
+<author pid="95/9687">Longkun Guo</author>
+<author pid="193/8475">Wanling Liu</author>
+<title>GMP-Net: Graph based Missing Part Patching Network for Point Cloud Completion.</title>
+<pages>107656</pages>
+<year>2024</year>
+<volume>130</volume>
+<journal>Eng. Appl. Artif. Intell.</journal>
+<ee>https://doi.org/10.1016/j.engappai.2023.107656</ee>
+<url>db/journals/eaai/eaai130.html#HuangFLGL24</url>
+</article>
+</r>
+<r>
+<article key="journals/ppl/ChengGMZ24" mdate="2025-01-19">
+<author orcid="0000-0003-4526-7983" pid="92/6271">Eddie Cheng 0001</author>
+<author pid="95/9687">Longkun Guo</author>
+<author pid="117/3543">Yaping Mao</author>
+<author pid="63/4485-1">Xiaoyan Zhang 0001</author>
+<title>A Commentary on the Progress of Big Data in Combinatorial Optimization.</title>
+<pages>2475001:1-2475001:6</pages>
+<year>2024</year>
+<month>March</month>
+<volume>34</volume>
+<journal>Parallel Process. Lett.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1142/S012962642475001X</ee>
+<ee>https://www.wikidata.org/entity/Q129744329</ee>
+<url>db/journals/ppl/ppl34.html#ChengGMZ24</url>
+</article>
+</r>
+<r>
+<article key="journals/tcc/ZhangLCSG24" mdate="2025-01-25">
+<author orcid="0000-0002-3006-1328" pid="234/7991">Jianshan Zhang</author>
+<author orcid="0000-0001-6859-3066" pid="28/2663">Haibo Luo</author>
+<author orcid="0000-0001-9641-3528" pid="89/120-2">Xing Chen 0002</author>
+<author orcid="0000-0002-3663-6591" pid="74/3247-1">Hong Shen 0001</author>
+<author orcid="0000-0003-2891-4253" pid="95/9687">Longkun Guo</author>
+<title>Minimizing Response Delay in UAV-Assisted Mobile Edge Computing by Joint UAV Deployment and Computation Offloading.</title>
+<pages>1372-1386</pages>
+<year>2024</year>
+<month>October - December</month>
+<volume>12</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TCC.2024.3478172</ee>
+<url>db/journals/tcc/tcc12.html#ZhangLCSG24</url>
+<stream>streams/journals/tcc</stream>
+</article>
+</r>
+<r>
+<inproceedings key="conf/aaai/LiZXCGF24" mdate="2024-08-07">
+<author pid="48/1097-32">Jin Li 0032</author>
+<author pid="01/5196">Qirong Zhang</author>
+<author pid="287/9392">Shuling Xu</author>
+<author pid="118/7338">Xinlong Chen</author>
+<author pid="95/9687">Longkun Guo</author>
+<author pid="61/8622">Yang-Geng Fu</author>
+<title>Curriculum-Enhanced Residual Soft An-Isotropic Normalization for Over-Smoothness in Deep GNNs.</title>
+<pages>13528-13536</pages>
+<year>2024</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v38i12.29256</ee>
+<crossref>conf/aaai/2024</crossref>
+<url>db/conf/aaai/aaai2024.html#LiZXCGF24</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/aaai/GuoJL0X24" mdate="2024-10-17">
+<author pid="95/9687">Longkun Guo</author>
+<author pid="367/4046">Chaoqi Jia</author>
+<author pid="04/8278">Kewen Liao</author>
+<author pid="91/7802-1">Zhigang Lu 0001</author>
+<author pid="166/1912">Minhui Xue 0001</author>
+<title>Efficient Constrained K-center Clustering with Background Knowledge.</title>
+<pages>20709-20717</pages>
+<year>2024</year>
+<booktitle>AAAI</booktitle>
+<ee type="oa">https://doi.org/10.1609/aaai.v38i18.30058</ee>
+<crossref>conf/aaai/2024</crossref>
+<url>db/conf/aaai/aaai2024.html#GuoJL0X24</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/aaim/XiaGZ24" mdate="2024-10-03">
+<author orcid="0000-0001-6731-4694" pid="386/3687">Fenghe Xia</author>
+<author orcid="0000-0003-2891-4253" pid="95/9687">Longkun Guo</author>
+<author orcid="0000-0001-8563-4958" pid="63/4485-1">Xiaoyan Zhang 0001</author>
+<title>Efficient Approximation Algorithms for Parallel Batch Machine Scheduling of Malleable Jobs.</title>
+<pages>48-59</pages>
+<year>2024</year>
+<booktitle>AAIM (1)</booktitle>
+<ee>https://doi.org/10.1007/978-981-97-7798-3_5</ee>
+<crossref>conf/aaim/2024-1</crossref>
+<url>db/conf/aaim/aaim2024-1.html#XiaGZ24</url>
+<stream>streams/conf/aaim</stream>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/dac/FangGLXHXC24" mdate="2024-11-30">
+<author orcid="0000-0003-2448-4786" pid="261/4609">Weijie Fang</author>
+<author orcid="0000-0003-2891-4253" pid="95/9687">Longkun Guo</author>
+<author orcid="0000-0002-1624-5286" pid="183/4389">Jiawei Lin</author>
+<author orcid="0000-0002-4112-9818" pid="357/4995">Silu Xiong</author>
+<author orcid="0000-0002-7416-3254" pid="77/3301">Huan He</author>
+<author orcid="0009-0002-0292-1113" pid="224/4836">Jiacen Xu</author>
+<author orcid="0000-0002-1391-2696" pid="68/9945">Jianli Chen</author>
+<title>Obstacle-Aware Length-Matching Routing for Any-Direction Traces in Printed Circuit Board.</title>
+<pages>74:1-74:6</pages>
+<year>2024</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1145/3649329.3655915</ee>
+<crossref>conf/dac/2024</crossref>
+<url>db/conf/dac/dac2024.html#FangGLXHXC24</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/pakdd/LinGJ24" mdate="2024-05-31">
+<author orcid="0009-0006-6122-0121" pid="313/5235">Zeyu Lin</author>
+<author orcid="0000-0003-2891-4253" pid="95/9687">Longkun Guo</author>
+<author orcid="0000-0002-6548-390X" pid="367/4046">Chaoqi Jia</author>
+<title>Streaming Fair k-Center Clustering over Massive Dataset with Performance Guarantee.</title>
+<pages>105-117</pages>
+<year>2024</year>
+<booktitle>PAKDD (3)</booktitle>
+<ee>https://doi.org/10.1007/978-981-97-2259-4_8</ee>
+<crossref>conf/pakdd/2024-3</crossref>
+<url>db/conf/pakdd/pakdd2024-3.html#LinGJ24</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/pakdd/ZhangLLG24" mdate="2024-05-07">
+<author pid="245/6006">Yunchao Zhang</author>
+<author orcid="0000-0003-0371-6525" pid="04/8278">Kewen Liao</author>
+<author pid="139/3889">Zhibin Liao</author>
+<author orcid="0000-0003-2891-4253" pid="95/9687">Longkun Guo</author>
+<title>Enhancing Policy Gradient for Traveling Salesman Problem with Data Augmented Behavior Cloning.</title>
+<pages>327-338</pages>
+<year>2024</year>
+<booktitle>PAKDD (2)</booktitle>
+<ee>https://doi.org/10.1007/978-981-97-2253-2_26</ee>
+<crossref>conf/pakdd/2024-2</crossref>
+<url>db/conf/pakdd/pakdd2024-2.html#ZhangLLG24</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/tamc/ChiG24" mdate="2024-05-09">
+<author pid="374/7680">Gaojie Chi</author>
+<author pid="95/9687">Longkun Guo</author>
+<title>A Local Search Algorithm for Radius-Constrained k-Median.</title>
+<pages>173-184</pages>
+<year>2024</year>
+<booktitle>TAMC</booktitle>
+<ee>https://doi.org/10.1007/978-981-97-2340-9_15</ee>
+<crossref>conf/tamc/2024</crossref>
+<url>db/conf/tamc/tamc2024.html#ChiG24</url>
+</inproceedings>
+</r>
+<r>
+<article publtype="informal" key="journals/corr/abs-2401-12533" mdate="2024-10-17">
+<author pid="95/9687">Longkun Guo</author>
+<author pid="367/4046">Chaoqi Jia</author>
+<author pid="04/8278">Kewen Liao</author>
+<author pid="91/7802-1">Zhigang Lu 0001</author>
+<author pid="166/1912">Minhui Xue 0001</author>
+<title>Efficient Constrained k-Center Clustering with Background Knowledge.</title>
+<year>2024</year>
+<volume>abs/2401.12533</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2401.12533</ee>
+<url>db/journals/corr/corr2401.html#abs-2401-12533</url>
+</article>
+</r>
+<r>
+<article publtype="informal" key="journals/corr/abs-2407-19195" mdate="2024-08-24">
+<author pid="261/4609">Weijie Fang</author>
+<author pid="95/9687">Longkun Guo</author>
+<author pid="183/4389">Jiawei Lin</author>
+<author pid="357/4995">Silu Xiong</author>
+<author pid="77/3301">Huan He</author>
+<author pid="224/4836">Jiacen Xu</author>
+<author pid="68/9945">Jianli Chen</author>
+<title>Obstacle-Aware Length-Matching Routing for Any-Direction Traces in Printed Circuit Board.</title>
+<year>2024</year>
+<volume>abs/2407.19195</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2407.19195</ee>
+<url>db/journals/corr/corr2407.html#abs-2407-19195</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r>
+<article publtype="informal" key="journals/corr/abs-2411-15687" mdate="2025-01-01">
+<author pid="95/9687">Longkun Guo</author>
+<author pid="183/4389">Jiawei Lin</author>
+<author pid="232/4803">Xuanming Xu</author>
+<author pid="83/6353">Peng Li</author>
+<title>Algorithmics and Complexity of Cost-Driven Task Offloading with Submodular Optimization in Edge-Cloud Environments.</title>
+<year>2024</year>
+<volume>abs/2411.15687</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2411.15687</ee>
+<url>db/journals/corr/corr2411.html#abs-2411-15687</url>
+<stream>streams/journals/corr</stream>
+</article>
+</r>
+<r>
+<article key="journals/cn/YaoGLL23" mdate="2023-06-02">
+<author pid="177/7288">Pei Yao</author>
+<author orcid="0000-0003-2891-4253" pid="95/9687">Longkun Guo</author>
+<author pid="83/6353">Peng Li</author>
+<author pid="183/4389">Jiawei Lin</author>
+<title>Optimal algorithm for min-max line barrier coverage with mobile sensors on 2-dimensional plane.</title>
+<pages>109717</pages>
+<year>2023</year>
+<month>June</month>
+<volume>228</volume>
+<journal>Comput. Networks</journal>
+<ee>https://doi.org/10.1016/j.comnet.2023.109717</ee>
+<url>db/journals/cn/cn228.html#YaoGLL23</url>
+</article>
+</r>
+<r>
+<article key="journals/concurrency/ZhangGWZ23" mdate="2023-08-05">
+<author orcid="0000-0002-8607-3774" pid="147/1584">Zhenning Zhang</author>
+<author orcid="0000-0003-2891-4253" pid="95/9687">Longkun Guo</author>
+<author pid="285/9605">Linyang Wang</author>
+<author pid="68/8544">Juan Zou</author>
+<title>One-pass streaming algorithm for monotone lattice submodular maximization subject to a cardinality constraint.</title>
+<year>2023</year>
+<volume>35</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>17</number>
+<ee>https://doi.org/10.1002/cpe.6645</ee>
+<url>db/journals/concurrency/concurrency35.html#ZhangGWZ23</url>
+</article>
+</r>
+<r>
+<article key="journals/isci/FuFLGW23" mdate="2023-09-30">
+<author orcid="0000-0002-8507-9189" pid="61/8622">Yang-Geng Fu</author>
+<author pid="342/5998">Geng-Chao Fang</author>
+<author pid="342/5371">Yong-Yu Liu</author>
+<author pid="95/9687">Longkun Guo</author>
+<author pid="59/605-1">Ying-Ming Wang 0001</author>
+<title>Disjunctive belief rule-based reasoning for decision making with incomplete information.</title>
+<pages>49-64</pages>
+<year>2023</year>
+<month>May</month>
+<volume>625</volume>
+<journal>Inf. Sci.</journal>
+<ee>https://doi.org/10.1016/j.ins.2023.01.010</ee>
+<url>db/journals/isci/isci625.html#FuFLGW23</url>
+</article>
+</r>
+<r>
+<article key="journals/tcs/ZouGHL23" mdate="2023-01-15">
+<author pid="156/2437">Wenjie Zou</author>
+<author orcid="0000-0003-2891-4253" pid="95/9687">Longkun Guo</author>
+<author pid="132/0345">Chunlin Hao</author>
+<author pid="21/2715">Lei Liu</author>
+<title>Approximation algorithm for MinSum linear barrier coverage with sink-based mobile sensors on the plane.</title>
+<pages>121-130</pages>
+<year>2023</year>
+<volume>941</volume>
+<journal>Theor. Comput. Sci.</journal>
+<ee>https://doi.org/10.1016/j.tcs.2022.10.046</ee>
+<url>db/journals/tcs/tcs941.html#ZouGHL23</url>
+</article>
+</r>
+<r>
+<article key="journals/tcs/GuoLXY23" mdate="2023-03-21">
+<author orcid="0000-0003-2891-4253" pid="95/9687">Longkun Guo</author>
+<author orcid="0000-0003-0371-6525" pid="04/8278">Kewen Liao</author>
+<author pid="43/5467-5">Di Xiao 0005</author>
+<author pid="177/7288">Pei Yao</author>
+<title>Submodular maximization over data streams with differential privacy noise.</title>
+<pages>113625</pages>
+<year>2023</year>
+<volume>944</volume>
+<journal>Theor. Comput. Sci.</journal>
+<ee>https://doi.org/10.1016/j.tcs.2022.11.011</ee>
+<url>db/journals/tcs/tcs944.html#GuoLXY23</url>
+</article>
+</r>
+<r>
+<inproceedings key="conf/pkdd/LiLZCHGF23" mdate="2024-08-07">
+<author orcid="0000-0003-3332-7790" pid="48/1097-32">Jin Li 0032</author>
+<author orcid="0009-0008-0111-0064" pid="350/2553">Bingshi Li</author>
+<author orcid="0000-0002-8204-9208" pid="01/5196">Qirong Zhang</author>
+<author orcid="0009-0002-1763-3122" pid="118/7338">Xinlong Chen</author>
+<author orcid="0009-0004-0814-3599" pid="02/4954">Xinyang Huang</author>
+<author orcid="0000-0003-2891-4253" pid="95/9687">Longkun Guo</author>
+<author orcid="0000-0002-8507-9189" pid="61/8622">Yang-Geng Fu</author>
+<title>Graph Contrastive Representation Learning with Input-Aware and Cluster-Aware Regularization.</title>
+<pages>666-682</pages>
+<year>2023</year>
+<booktitle>ECML/PKDD (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-031-43415-0_39</ee>
+<crossref>conf/pkdd/2023-2</crossref>
+<url>db/conf/pkdd/pkdd2023-2.html#LiLZCHGF23</url>
+</inproceedings>
+</r>
+<r>
+<article publtype="informal" key="journals/corr/abs-2304-13398" mdate="2023-12-31">
+<author pid="261/4609">Weijie Fang</author>
+<author pid="61/8622">Yanggeng Fu</author>
+<author pid="78/2677">Jiaquan Gao</author>
+<author pid="95/9687">Longkun Guo</author>
+<author pid="74/2412">Gregory Z. Gutin</author>
+<author pid="63/4485-1">Xiaoyan Zhang 0001</author>
+<title>Acceleration for Timing-Aware Gate-Level Logic Simulation with One-Pass GPU Parallelism.</title>
+<year>2023</year>
+<volume>abs/2304.13398</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2304.13398</ee>
+<url>db/journals/corr/corr2304.html#abs-2304-13398</url>
+</article>
+</r>
+<r>
+<article publtype="informal" key="journals/corr/abs-2312-08221" mdate="2024-08-07">
+<author pid="48/1097-32">Jin Li 0032</author>
+<author pid="01/5196">Qirong Zhang</author>
+<author pid="287/9392">Shuling Xu</author>
+<author pid="118/7338">Xinlong Chen</author>
+<author pid="95/9687">Longkun Guo</author>
+<author pid="61/8622">Yang-Geng Fu</author>
+<title>Curriculum-Enhanced Residual Soft An-Isotropic Normalization for Over-smoothness in Deep GNNs.</title>
+<year>2023</year>
+<volume>abs/2312.08221</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://doi.org/10.48550/arXiv.2312.08221</ee>
+<url>db/journals/corr/corr2312.html#abs-2312-08221</url>
+</article>
+</r>
+<r>
+<article key="journals/cee/GaoGL22" mdate="2023-03-21">
+<author pid="326/2863">Xuening Gao</author>
+<author orcid="0000-0003-2891-4253" pid="95/9687">Longkun Guo</author>
+<author orcid="0000-0003-0371-6525" pid="04/8278">Kewen Liao</author>
+<title>Efficient approximation algorithms for offline and online unit disk multiple coverage.</title>
+<pages>108444</pages>
+<year>2022</year>
+<volume>104</volume>
+<journal>Comput. Electr. Eng.</journal>
+<number>Part</number>
+<ee>https://doi.org/10.1016/j.compeleceng.2022.108444</ee>
+<url>db/journals/cee/cee104.html#GaoGL22</url>
+</article>
+</r>
+<r>
+<article key="journals/chinaf/YangXGZ22" mdate="2023-09-30">
+<author pid="245/4073">Ruiqi Yang</author>
+<author orcid="0000-0002-7846-0969" pid="73/41">Dachuan Xu</author>
+<author pid="95/9687">Longkun Guo</author>
+<author pid="87/461-2">Dongmei Zhang 0002</author>
+<title>Regularized two-stage submodular maximization under streaming.</title>
+<year>2022</year>
+<volume>65</volume>
+<journal>Sci. China Inf. Sci.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s11432-020-3420-9</ee>
+<url>db/journals/chinaf/chinaf65.html#YangXGZ22</url>
+</article>
+</r>
+<r>
+<article key="journals/concurrency/ZouGHLM22" mdate="2024-10-06">
+<author pid="156/2437">Wenjie Zou</author>
+<author orcid="0000-0003-2891-4253" pid="95/9687">Longkun Guo</author>
+<author pid="222/0403">Peihuang Huang</author>
+<author pid="00/5299">Geng Lin</author>
+<author orcid="0000-0001-7941-2443" pid="310/1095">Hengquan Mei</author>
+<title>Linear time algorithm for computing min-max movement of sink-based mobile sensors for line barrier coverage.</title>
+<year>2022</year>
+<volume>34</volume>
+<journal>Concurr. Comput. Pract. Exp.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1002/cpe.6175</ee>
+<url>db/journals/concurrency/concurrency34.html#ZouGHLM22</url>
+</article>
+</r>
+<r>
+<article key="journals/connection/ChenLZGX22" mdate="2023-01-05">
+<author pid="149/0607">Kaizhi Chen</author>
+<author pid="274/8555">Chengpei Le</author>
+<author pid="05/7488">Shangping Zhong</author>
+<author pid="95/9687">Longkun Guo</author>
+<author pid="06/8656">Ge Xu</author>
+<title>NNNPE: non-neighbourhood and neighbourhood preserving embedding.</title>
+<pages>2615-2629</pages>
+<year>2022</year>
+<volume>34</volume>
+<journal>Connect. Sci.</journal>
+<number>1</number>
+<ee type="oa">https://doi.org/10.1080/09540091.2022.2133082</ee>
+<url>db/journals/connection/connection34.html#ChenLZGX22</url>
+</article>
+</r>
+<r>
+<article key="journals/jco/CuiXGW22" mdate="2023-09-30">
+<author pid="25/6642">Min Cui</author>
+<author orcid="0000-0002-7846-0969" pid="73/41">Dachuan Xu</author>
+<author orcid="0000-0003-2891-4253" pid="95/9687">Longkun Guo</author>
+<author pid="19/5635">Dan Wu</author>
+<title>Approximation guarantees for parallelized maximization of monotone non-submodular function with a cardinality constraint.</title>
+<pages>1671-1690</pages>
+<year>2022</year>
+<volume>43</volume>
+<journal>J. Comb. Optim.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1007/s10878-021-00719-z</ee>
+<url>db/journals/jco/jco43.html#CuiXGW22</url>
+</article>
+</r>
+<r>
+<article key="journals/jco/JiXGLZ22" mdate="2023-09-30">
+<author pid="92/6923">Sai Ji</author>
+<author orcid="0000-0002-7846-0969" pid="73/41">Dachuan Xu</author>
+<author orcid="0000-0003-2891-4253" pid="95/9687">Longkun Guo</author>
+<author pid="82/0-28">Min Li 0028</author>
+<author pid="87/461-2">Dongmei Zhang 0002</author>
+<title>The seeding algorithm for spherical k-means clustering with penalties.</title>
+<pages>1977-1994</pages>
+<year>2022</year>
+<volume>44</volume>
+<journal>J. Comb. Optim.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10878-020-00569-1</ee>
+<url>db/journals/jco/jco44.html#JiXGLZ22</url>
+</article>
+</r>
+<r>
+<article key="journals/jco/YaoG22" mdate="2022-10-18">
+<author pid="177/7288">Pei Yao</author>
+<author orcid="0000-0003-2891-4253" pid="95/9687">Longkun Guo</author>
+<title>Exact algorithms for finding constrained minimum spanning trees.</title>
+<pages>2085-2103</pages>
+<year>2022</year>
+<volume>44</volume>
+<journal>J. Comb. Optim.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10878-020-00579-z</ee>
+<url>db/journals/jco/jco44.html#YaoG22</url>
+</article>
+</r>
+<r>
+<article key="journals/jco/TianXGW22" mdate="2023-09-30">
+<author pid="271/9697">Xiaoyun Tian</author>
+<author orcid="0000-0002-7846-0969" pid="73/41">Dachuan Xu</author>
+<author orcid="0000-0003-2891-4253" pid="95/9687">Longkun Guo</author>
+<author pid="19/5635">Dan Wu</author>
+<title>Improved local search algorithms for Bregman k-means and its variants.</title>
+<pages>2533-2550</pages>
+<year>2022</year>
+<volume>44</volume>
+<journal>J. Comb. Optim.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1007/s10878-021-00771-9</ee>
+<url>db/journals/jco/jco44.html#TianXGW22</url>
+</article>
+</r>
+<r>
+<article key="journals/jgo/LiuGDXZ22" mdate="2023-09-30">
+<author pid="53/1020">Zhicheng Liu</author>
+<author pid="95/9687">Longkun Guo</author>
+<author pid="66/1131">Donglei Du</author>
+<author orcid="0000-0002-7846-0969" pid="73/41">Dachuan Xu</author>
+<author orcid="0000-0002-2224-1484" pid="63/4485-1">Xiaoyan Zhang 0001</author>
+<title>Maximization problems of balancing submodular relevance and supermodular diversity.</title>
+<pages>179-194</pages>
+<year>2022</year>
+<volume>82</volume>
+<journal>J. Glob. Optim.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10898-021-01063-6</ee>
+<url>db/journals/jgo/jgo82.html#LiuGDXZ22</url>
+</article>
+</r>
+<r>
+<article key="journals/percom/MeiGZHYQ22" mdate="2024-10-06">
+<author orcid="0000-0001-7941-2443" pid="310/1095">Hengquan Mei</author>
+<author orcid="0000-0003-2891-4253" pid="95/9687">Longkun Guo</author>
+<author pid="156/2437">Wenjie Zou</author>
+<author pid="222/0403">Peihuang Huang</author>
+<author pid="25/4656-1">Zhiyong Yu 0001</author>
+<author pid="16/262">Yongrui Qin</author>
+<title>Min-max movement of barrier coverage with sink-based mobile sensors for crowdsensing.</title>
+<pages>101653</pages>
+<year>2022</year>
+<volume>85</volume>
+<journal>Pervasive Mob. Comput.</journal>
+<ee>https://doi.org/10.1016/j.pmcj.2022.101653</ee>
+<url>db/journals/percom/percom85.html#MeiGZHYQ22</url>
+</article>
+</r>
+<r>
+<article key="journals/tcad/ChenZGTC22" mdate="2022-04-04">
+<author orcid="0000-0002-1391-2696" pid="68/9945">Jianli Chen</author>
+<author pid="193/3138">Ziran Zhu</author>
+<author orcid="0000-0003-2891-4253" pid="95/9687">Longkun Guo</author>
+<author pid="229/4264">Yu-Wei Tseng</author>
+<author pid="c/YaoWenChang">Yao-Wen Chang</author>
+<title>Mixed-Cell-Height Placement With Drain-to-Drain Abutment and Region Constraints.</title>
+<pages>1103-1115</pages>
+<year>2022</year>
+<volume>41</volume>
+<journal>IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TCAD.2021.3077586</ee>
+<url>db/journals/tcad/tcad41.html#ChenZGTC22</url>
+</article>
+</r>
+<r>
+<article key="journals/tit/DaiGGZZ22" mdate="2022-06-02">
+<author orcid="0000-0001-5839-4573" pid="13/8619">Guowei Dai</author>
+<author orcid="0000-0003-2891-4253" pid="95/9687">Longkun Guo</author>
+<author orcid="0000-0002-2377-0417" pid="74/2412">Gregory Z. Gutin</author>
+<author orcid="0000-0002-3085-2701" pid="63/4485-1">Xiaoyan Zhang 0001</author>
+<author orcid="0000-0002-0851-4984" pid="21/6313">Zan-Bo Zhang</author>
+<title>Iterative Message Passing Algorithm for Vertex-Disjoint Shortest Paths.</title>
+<pages>3870-3878</pages>
+<year>2022</year>
+<volume>68</volume>
+<journal>IEEE Trans. Inf. Theory</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/TIT.2022.3145232</ee>
+<url>db/journals/tit/tit68.html#DaiGGZZ22</url>
+</article>
+</r>
+<r>
+<inproceedings key="conf/wowmom/GaoGL22" mdate="2023-09-30">
+<author orcid="0000-0001-7708-2428" pid="326/2863">Xuening Gao</author>
+<author pid="95/9687">Longkun Guo</author>
+<author orcid="0000-0003-0371-6525" pid="04/8278">Kewen Liao</author>
+<title>Fast Approximation Algorithms for Multiple Coverage with Unit Disks.</title>
+<pages>185-193</pages>
+<year>2022</year>
+<booktitle>WoWMoM</booktitle>
+<ee>https://doi.org/10.1109/WoWMoM54355.2022.00037</ee>
+<crossref>conf/wowmom/2022</crossref>
+<url>db/conf/wowmom/wowmom2022.html#GaoGL22</url>
+</inproceedings>
+</r>
+<r>
+<article key="journals/apjor/ZhangGWXZ21" mdate="2023-09-30">
+<author pid="147/1584">Zhenning Zhang</author>
+<author pid="95/9687">Longkun Guo</author>
+<author pid="153/1959">Yishui Wang</author>
+<author orcid="0000-0002-7846-0969" pid="73/41">Dachuan Xu</author>
+<author pid="87/461-2">Dongmei Zhang 0002</author>
+<title>Streaming Algorithms for Maximizing Monotone DR-Submodular Functions with a Cardinality Constraint on the Integer Lattice.</title>
+<pages>2140004:1-2140004:14</pages>
+<year>2021</year>
+<volume>38</volume>
+<journal>Asia Pac. J. Oper. Res.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1142/S0217595921400042</ee>
+<url>db/journals/apjor/apjor38.html#ZhangGWXZ21</url>
+</article>
+</r>
+<r>
+<article key="journals/complexity/ZhuHCG21" mdate="2021-04-29">
+<author pid="193/3138">Ziran Zhu</author>
+<author pid="229/4173">Zhipeng Huang 0009</author>
+<author pid="68/9945">Jianli Chen</author>
+<author orcid="0000-0003-2891-4253" pid="95/9687">Longkun Guo</author>
+<title>Topology-Aware Bus Routing in Complex Networks of Very-Large-Scale Integration with Nonuniform Track Configurations and Obstacles.</title>
+<pages>8843271:1-8843271:12</pages>
+<year>2021</year>
+<volume>2021</volume>
+<journal>Complex.</journal>
+<ee type="oa">https://doi.org/10.1155/2021/8843271</ee>
+<url>db/journals/complexity/complexity2021.html#ZhuHCG21</url>
+</article>
+</r>
+<r>
+<article key="journals/jco/YangXGZ21" mdate="2023-09-30">
+<author pid="245/4073">Ruiqi Yang</author>
+<author orcid="0000-0002-7846-0969" pid="73/41">Dachuan Xu</author>
+<author orcid="0000-0003-2891-4253" pid="95/9687">Longkun Guo</author>
+<author pid="87/461-2">Dongmei Zhang 0002</author>
+<title>Sequence submodular maximization meets streaming.</title>
+<pages>43-55</pages>
+<year>2021</year>
+<volume>41</volume>
+<journal>J. Comb. Optim.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10878-020-00662-5</ee>
+<url>db/journals/jco/jco41.html#YangXGZ21</url>
+</article>
+</r>
+<r>
+<article key="journals/jco/GuoL21" mdate="2021-12-15">
+<author orcid="0000-0003-2891-4253" pid="95/9687">Longkun Guo</author>
+<author pid="83/6353">Peng Li</author>
+<title>On the complexity of and algorithms for detecting k-length negative cost cycles.</title>
+<pages>396-408</pages>
+<year>2021</year>
+<volume>42</volume>
+<journal>J. Comb. Optim.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s10878-018-00371-0</ee>
+<url>db/journals/jco/jco42.html#GuoL21</url>
+</article>
+</r>
+<r>
+<article key="journals/tcs/ZhangXGT21" mdate="2023-09-30">
+<author pid="179/3197">Hongxiang Zhang</author>
+<author orcid="0000-0002-7846-0969" pid="73/41">Dachuan Xu</author>
+<author pid="95/9687">Longkun Guo</author>
+<author orcid="0000-0002-9941-0629" pid="138/4227">Jingjing Tan</author>
+<title>Parallelized maximization of nonsubmodular function subject to a cardinality constraint.</title>
+<pages>129-137</pages>
+<year>2021</year>
+<volume>864</volume>
+<journal>Theor. Comput. Sci.</journal>
+<ee>https://doi.org/10.1016/j.tcs.2021.02.035</ee>
+<url>db/journals/tcs/tcs864.html#ZhangXGT21</url>
+</article>
+</r>
+<r>
+<article key="journals/tcs/DengGLC21" mdate="2021-09-20">
+<author pid="222/0445">Yunyun Deng</author>
+<author pid="95/9687">Longkun Guo</author>
+<author orcid="0000-0003-0371-6525" pid="04/8278">Kewen Liao</author>
+<author pid="49/6574">Yi Chen</author>
+<title>On finding maximum disjoint paths with different colors: Computational complexity and practical LP-based algorithms.</title>
+<pages>157-168</pages>
+<year>2021</year>
+<volume>886</volume>
+<journal>Theor. Comput. Sci.</journal>
+<ee>https://doi.org/10.1016/j.tcs.2021.08.009</ee>
+<url>db/journals/tcs/tcs886.html#DengGLC21</url>
+</article>
+</r>
+<r>
+<article key="journals/tcs/SunXGL21" mdate="2023-09-30">
+<author pid="20/3535">Xin Sun</author>
+<author orcid="0000-0002-7846-0969" pid="73/41">Dachuan Xu</author>
+<author pid="95/9687">Longkun Guo</author>
+<author pid="82/0-28">Min Li 0028</author>
+<title>Deterministic approximation algorithm for submodular maximization subject to a matroid constraint.</title>
+<pages>1-15</pages>
+<year>2021</year>
+<volume>890</volume>
+<journal>Theor. Comput. Sci.</journal>
+<ee>https://doi.org/10.1016/j.tcs.2021.08.012</ee>
+<url>db/journals/tcs/tcs890.html#SunXGL21</url>
+</article>
+</r>
+<r>
+<inproceedings key="conf/aaim/ZouGHL21" mdate="2021-12-28">
+<author pid="156/2437">Wenjie Zou</author>
+<author pid="95/9687">Longkun Guo</author>
+<author pid="132/0345">Chunlin Hao</author>
+<author pid="21/2715">Lei Liu</author>
+<title>A Fast FPTAS for Two Dimensional Barrier Coverage Using Sink-Based Mobile Sensors with MinSum Movement.</title>
+<pages>265-276</pages>
+<year>2021</year>
+<booktitle>AAIM</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-93176-6_23</ee>
+<crossref>conf/aaim/2021</crossref>
+<url>db/conf/aaim/aaim2021.html#ZouGHL21</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/cbd/Lin0HG21" mdate="2022-08-04">
+<author pid="325/8460">Binwei Lin</author>
+<author pid="25/4656-1">Zhiyong Yu 0001</author>
+<author pid="211/4136">Fangwan Huang</author>
+<author pid="95/9687">Longkun Guo</author>
+<title>Pool-Based Sequential Active Learning For Regression Based on Incremental Cluster Center Selection.</title>
+<pages>176-182</pages>
+<year>2021</year>
+<booktitle>CBD</booktitle>
+<ee>https://doi.org/10.1109/CBD54617.2021.00038</ee>
+<crossref>conf/cbd/2021</crossref>
+<url>db/conf/cbd/cbd2021.html#Lin0HG21</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/cocoa/YaoGLP21" mdate="2021-12-25">
+<author orcid="0000-0002-6151-3462" pid="177/7288">Pei Yao</author>
+<author orcid="0000-0003-2891-4253" pid="95/9687">Longkun Guo</author>
+<author orcid="0000-0002-1014-3166" pid="167/3808">Shuangjuan Li</author>
+<author orcid="0000-0003-3518-6880" pid="257/0912">Huihong Peng</author>
+<title>Target Coverage with Minimum Number of Camera Sensors.</title>
+<pages>12-24</pages>
+<year>2021</year>
+<booktitle>COCOA</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-92681-6_2</ee>
+<crossref>conf/cocoa/2021</crossref>
+<url>db/conf/cocoa/cocoa2021.html#YaoGLP21</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/cocoa/XuG21" mdate="2021-12-25">
+<author orcid="0000-0001-9083-6271" pid="232/4803">Xuanming Xu</author>
+<author orcid="0000-0003-2891-4253" pid="95/9687">Longkun Guo</author>
+<title>Efficient Algorithms for Scheduling Parallel Jobs with Interval Constraints in Clouds.</title>
+<pages>195-202</pages>
+<year>2021</year>
+<booktitle>COCOA</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-92681-6_16</ee>
+<crossref>conf/cocoa/2021</crossref>
+<url>db/conf/cocoa/cocoa2021.html#XuG21</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/cocoa/XiaoGLY21" mdate="2022-03-04">
+<author orcid="0000-0002-3102-0827" pid="43/5467-5">Di Xiao 0005</author>
+<author orcid="0000-0003-2891-4253" pid="95/9687">Longkun Guo</author>
+<author orcid="0000-0003-0371-6525" pid="04/8278">Kewen Liao</author>
+<author orcid="0000-0002-6151-3462" pid="177/7288">Pei Yao</author>
+<title>Streaming Submodular Maximization Under Differential Privacy Noise.</title>
+<pages>431-444</pages>
+<year>2021</year>
+<booktitle>COCOA</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-92681-6_34</ee>
+<crossref>conf/cocoa/2021</crossref>
+<url>db/conf/cocoa/cocoa2021.html#XiaoGLY21</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/dac/WangJZGCC21" mdate="2021-11-12">
+<author pid="50/301">Bingshu Wang</author>
+<author pid="282/6001">Lanfan Jiang</author>
+<author pid="80/773">Wenxing Zhu</author>
+<author pid="95/9687">Longkun Guo</author>
+<author pid="68/9945">Jianli Chen</author>
+<author pid="c/YaoWenChang">Yao-Wen Chang</author>
+<title>Two-Stage Neural Network Classifier for the Data Imbalance Problem with Application to Hotspot Detection.</title>
+<pages>175-180</pages>
+<year>2021</year>
+<booktitle>DAC</booktitle>
+<ee>https://doi.org/10.1109/DAC18074.2021.9586237</ee>
+<crossref>conf/dac/2021</crossref>
+<url>db/conf/dac/dac2021.html#WangJZGCC21</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/icdcs/GuoZWXD21" mdate="2023-09-30">
+<author pid="95/9687">Longkun Guo</author>
+<author pid="156/2437">Wenjie Zou</author>
+<author pid="97/2027">Chenchen Wu</author>
+<author orcid="0000-0002-7846-0969" pid="73/41">Dachuan Xu</author>
+<author pid="d/DingZhuDu">Ding-Zhu Du</author>
+<title>MinSum Movement of Barrier and Target Coverage using Sink-based Mobile Sensors on the Plane.</title>
+<pages>696-706</pages>
+<year>2021</year>
+<booktitle>ICDCS</booktitle>
+<ee>https://doi.org/10.1109/ICDCS51616.2021.00072</ee>
+<crossref>conf/icdcs/2021</crossref>
+<url>db/conf/icdcs/icdcs2021.html#GuoZWXD21</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/icdcs/PengGSZ21" mdate="2022-07-12">
+<author pid="257/0912">Huihong Peng</author>
+<author pid="95/9687">Longkun Guo</author>
+<author pid="151/4095">Long Sun</author>
+<author pid="63/4485-1">Xiaoyan Zhang 0001</author>
+<title>Demo: Resource Allocation for Wafer-Scale Deep Learning Accelerator.</title>
+<pages>1114-1115</pages>
+<year>2021</year>
+<booktitle>ICDCS</booktitle>
+<ee>https://doi.org/10.1109/ICDCS51616.2021.00114</ee>
+<crossref>conf/icdcs/2021</crossref>
+<url>db/conf/icdcs/icdcs2021.html#PengGSZ21</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/icdcs/YaoGY21" mdate="2021-10-13">
+<author pid="177/7288">Pei Yao</author>
+<author pid="95/9687">Longkun Guo</author>
+<author pid="34/25">Jiguo Yu</author>
+<title>Poster: Quadratic-Time Algorithms for Optimal Min-Max Barrier Coverage with Mobile Sensors on the Plane.</title>
+<pages>1132-1133</pages>
+<year>2021</year>
+<booktitle>ICDCS</booktitle>
+<ee>https://doi.org/10.1109/ICDCS51616.2021.00122</ee>
+<crossref>conf/icdcs/2021</crossref>
+<url>db/conf/icdcs/icdcs2021.html#YaoGY21</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/mswim/YaoGLL21" mdate="2021-11-19">
+<author pid="177/7288">Pei Yao</author>
+<author pid="95/9687">Longkun Guo</author>
+<author pid="83/6353">Peng Li</author>
+<author pid="183/4389">Jiawei Lin</author>
+<title>Improved Fast Algorithms for Optimal Min-Max Line Barrier Coverage with Mobile Sensors on the Plane.</title>
+<pages>159-166</pages>
+<year>2021</year>
+<booktitle>MSWiM</booktitle>
+<ee>https://doi.org/10.1145/3479239.3485688</ee>
+<crossref>conf/mswim/2021</crossref>
+<url>db/conf/mswim/mswim2021.html#YaoGLL21</url>
+</inproceedings>
+</r>
+<r>
+<article key="journals/comsis/MaLGW20" mdate="2020-12-29">
+<author orcid="0000-0003-4868-5750" pid="257/0919">Zijing Ma</author>
+<author pid="167/3808">Shuangjuan Li</author>
+<author pid="95/9687">Longkun Guo</author>
+<author pid="74/4514">Guohua Wang</author>
+<title>Energy-efficient non-linear k-barrier coverage in mobile sensor network.</title>
+<pages>737-758</pages>
+<year>2020</year>
+<volume>17</volume>
+<journal>Comput. Sci. Inf. Syst.</journal>
+<number>3</number>
+<ee type="oa">https://doi.org/10.2298/CSIS200205018M</ee>
+<url>db/journals/comsis/comsis17.html#MaLGW20</url>
+</article>
+</r>
+<r>
+<article key="journals/fgcs/ChenWMZG20" mdate="2024-10-06">
+<author pid="89/120-2">Xing Chen 0002</author>
+<author orcid="0000-0002-8117-8139" pid="58/7757">Haijiang Wang</author>
+<author pid="75/7811-3">Yun Ma 0003</author>
+<author pid="14/7437">Xianghan Zheng</author>
+<author pid="95/9687">Longkun Guo</author>
+<title>Self-adaptive resource allocation for cloud-based software services based on iterative QoS prediction model.</title>
+<pages>287-296</pages>
+<year>2020</year>
+<volume>105</volume>
+<journal>Future Gener. Comput. Syst.</journal>
+<ee>https://doi.org/10.1016/j.future.2019.12.005</ee>
+<url>db/journals/fgcs/fgcs105.html#ChenWMZG20</url>
+</article>
+</r>
+<r>
+<article key="journals/ijahuc/YuZGGY20" mdate="2022-04-09">
+<author orcid="0000-0002-2051-9462" pid="25/4656-1">Zhiyong Yu 0001</author>
+<author pid="47/11240-5">Weiping Zhu 0005</author>
+<author pid="95/9687">Longkun Guo</author>
+<author pid="10/2272">Wenzhong Guo</author>
+<author orcid="0000-0002-9905-3238" pid="z/YuZhiwen">Zhiwen Yu 0001</author>
+<title>Task allocation for crowdsensing based on submodular optimisation.</title>
+<pages>48-61</pages>
+<year>2020</year>
+<volume>33</volume>
+<journal>Int. J. Ad Hoc Ubiquitous Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1504/IJAHUC.2020.104716</ee>
+<url>db/journals/ijahuc/ijahuc33.html#YuZGGY20</url>
+</article>
+</r>
+<r>
+<article key="journals/kbs/FuZCGW20" mdate="2023-02-25">
+<author orcid="0000-0002-8507-9189" pid="61/8622">Yang-Geng Fu</author>
+<author pid="278/3253">Jin-Hui Zhuang</author>
+<author pid="38/1845">Yu-Peng Chen</author>
+<author pid="95/9687">Longkun Guo</author>
+<author pid="59/605-1">Ying-Ming Wang 0001</author>
+<title>A framework for optimizing extended belief rule base systems with improved Ball trees.</title>
+<pages>106484</pages>
+<year>2020</year>
+<volume>210</volume>
+<journal>Knowl. Based Syst.</journal>
+<ee>https://doi.org/10.1016/j.knosys.2020.106484</ee>
+<url>db/journals/kbs/kbs210.html#FuZCGW20</url>
+</article>
+</r>
+<r>
+<inproceedings key="conf/aaim/CuiXGW20" mdate="2023-09-30">
+<author pid="25/6642">Min Cui</author>
+<author orcid="0000-0002-7846-0969" pid="73/41">Dachuan Xu</author>
+<author pid="95/9687">Longkun Guo</author>
+<author pid="19/5635">Dan Wu</author>
+<title>Approximation Guarantees for Parallelized Maximization of Monotone Non-submodular Function with a Cardinality Constraint.</title>
+<pages>195-203</pages>
+<year>2020</year>
+<booktitle>AAIM</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-57602-8_18</ee>
+<crossref>conf/aaim/2020</crossref>
+<url>db/conf/aaim/aaim2020.html#CuiXGW20</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/cocoon/ZhangXGT20" mdate="2023-09-30">
+<author pid="179/3197">Hongxiang Zhang</author>
+<author orcid="0000-0002-7846-0969" pid="73/41">Dachuan Xu</author>
+<author pid="95/9687">Longkun Guo</author>
+<author pid="138/4227">Jingjing Tan</author>
+<title>Parallelized Maximization of Nonsubmodular Function Subject to a Cardinality Constraint.</title>
+<pages>520-531</pages>
+<year>2020</year>
+<booktitle>COCOON</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58150-3_42</ee>
+<crossref>conf/cocoon/2020</crossref>
+<url>db/conf/cocoon/cocoon2020.html#ZhangXGT20</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/cocoon/TianXGW20" mdate="2023-09-30">
+<author pid="271/9697">Xiaoyun Tian</author>
+<author orcid="0000-0002-7846-0969" pid="73/41">Dachuan Xu</author>
+<author pid="95/9687">Longkun Guo</author>
+<author pid="19/5635">Dan Wu</author>
+<title>An Improved Bregman k-means++ Algorithm via Local Search.</title>
+<pages>532-541</pages>
+<year>2020</year>
+<booktitle>COCOON</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-58150-3_43</ee>
+<crossref>conf/cocoon/2020</crossref>
+<url>db/conf/cocoon/cocoon2020.html#TianXGW20</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/csonet/ZhongG20" mdate="2021-01-09">
+<author pid="282/1696">Yuting Zhong</author>
+<author orcid="0000-0003-2891-4253" pid="95/9687">Longkun Guo</author>
+<title>Group Influence Maximization in Social Networks.</title>
+<pages>152-163</pages>
+<year>2020</year>
+<booktitle>CSoNet</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-66046-8_13</ee>
+<crossref>conf/csonet/2020</crossref>
+<url>db/conf/csonet/csonet2020.html#ZhongG20</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/pdcat/ChenWZG20" mdate="2021-02-23">
+<author pid="149/0607">Kaizhi Chen</author>
+<author pid="285/9595">Wencheng Wei</author>
+<author pid="05/7488">Shangping Zhong</author>
+<author pid="95/9687">Longkun Guo</author>
+<title>Blood Leukocyte Object Detection According to Model Parameter-Transfer and Deformable Convolution.</title>
+<pages>1-16</pages>
+<year>2020</year>
+<booktitle>PDCAT</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-69244-5_1</ee>
+<crossref>conf/pdcat/2020</crossref>
+<url>db/conf/pdcat/pdcat2020.html#ChenWZG20</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/pdcat/SunGH20" mdate="2021-02-23">
+<author pid="151/4095">Long Sun</author>
+<author pid="95/9687">Longkun Guo</author>
+<author pid="222/0403">Peihuang Huang</author>
+<title>System-Level FPGA Routing for Logic Verification with Time-Division Multiplexing.</title>
+<pages>210-218</pages>
+<year>2020</year>
+<booktitle>PDCAT</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-69244-5_18</ee>
+<crossref>conf/pdcat/2020</crossref>
+<url>db/conf/pdcat/pdcat2020.html#SunGH20</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/pdcat/GuoXHZ20" mdate="2022-07-12">
+<author pid="95/9687">Longkun Guo</author>
+<author pid="73/6587">Bin Xing</author>
+<author pid="222/0403">Peihuang Huang</author>
+<author pid="63/4485-1">Xiaoyan Zhang 0001</author>
+<title>Approximation Algorithms for the General Cluster Routing Problem.</title>
+<pages>264-273</pages>
+<year>2020</year>
+<booktitle>PDCAT</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-69244-5_23</ee>
+<crossref>conf/pdcat/2020</crossref>
+<url>db/conf/pdcat/pdcat2020.html#GuoXHZ20</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/pdcat/ZhongGH20" mdate="2021-02-23">
+<author pid="282/1696">Yuting Zhong</author>
+<author pid="95/9687">Longkun Guo</author>
+<author pid="222/0403">Peihuang Huang</author>
+<title>Maximizing Group Coverage in Social Networks.</title>
+<pages>274-284</pages>
+<year>2020</year>
+<booktitle>PDCAT</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-69244-5_24</ee>
+<crossref>conf/pdcat/2020</crossref>
+<url>db/conf/pdcat/pdcat2020.html#ZhongGH20</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/pdcat/ZhangGWZ20" mdate="2021-02-23">
+<author pid="147/1584">Zhenning Zhang</author>
+<author pid="95/9687">Longkun Guo</author>
+<author pid="285/9605">Linyang Wang</author>
+<author pid="68/8544">Juan Zou</author>
+<title>A Streaming Model for Monotone Lattice Submodular Maximization with a Cardinality Constraint.</title>
+<pages>362-370</pages>
+<year>2020</year>
+<booktitle>PDCAT</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-69244-5_32</ee>
+<crossref>conf/pdcat/2020</crossref>
+<url>db/conf/pdcat/pdcat2020.html#ZhangGWZ20</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/tamc/DengCLG20" mdate="2021-04-09">
+<author pid="222/0445">Yunyun Deng</author>
+<author pid="49/6574">Yi Chen</author>
+<author orcid="0000-0003-0371-6525" pid="04/8278">Kewen Liao</author>
+<author pid="95/9687">Longkun Guo</author>
+<title>LP-Based Algorithms for Computing Maximum Vertex-Disjoint Paths with Different Colors.</title>
+<pages>107-118</pages>
+<year>2020</year>
+<booktitle>TAMC</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-59267-7_10</ee>
+<crossref>conf/tamc/2020</crossref>
+<url>db/conf/tamc/tamc2020.html#DengCLG20</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/tamc/YangXGZ20" mdate="2023-09-30">
+<author pid="245/4073">Ruiqi Yang</author>
+<author orcid="0000-0002-7846-0969" pid="73/41">Dachuan Xu</author>
+<author pid="95/9687">Longkun Guo</author>
+<author pid="87/461-2">Dongmei Zhang 0002</author>
+<title>Parametric Streaming Two-Stage Submodular Maximization.</title>
+<pages>193-204</pages>
+<year>2020</year>
+<booktitle>TAMC</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-59267-7_17</ee>
+<crossref>conf/tamc/2020</crossref>
+<url>db/conf/tamc/tamc2020.html#YangXGZ20</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/tamc/SunXGL20" mdate="2023-09-30">
+<author pid="20/3535">Xin Sun</author>
+<author orcid="0000-0002-7846-0969" pid="73/41">Dachuan Xu</author>
+<author pid="95/9687">Longkun Guo</author>
+<author pid="82/0-28">Min Li 0028</author>
+<title>Approximation Guarantees for Deterministic Maximization of Submodular Function with a Matroid Constraint.</title>
+<pages>205-214</pages>
+<year>2020</year>
+<booktitle>TAMC</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-59267-7_18</ee>
+<crossref>conf/tamc/2020</crossref>
+<url>db/conf/tamc/tamc2020.html#SunXGL20</url>
+</inproceedings>
+</r>
+<r>
+<article key="journals/access/LiSHG19" mdate="2023-09-20">
+<author orcid="0000-0002-1014-3166" pid="167/3808">Shuangjuan Li</author>
+<author pid="74/3247-1">Hong Shen 0001</author>
+<author orcid="0000-0002-7666-8985" pid="58/5215-1">Qiong Huang 0001</author>
+<author pid="95/9687">Longkun Guo</author>
+<title>Optimizing the Sensor Movement for Barrier Coverage in a Sink-Based Deployed Mobile Sensor Network.</title>
+<pages>156301-156314</pages>
+<year>2019</year>
+<volume>7</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2019.2949025</ee>
+<url>db/journals/access/access7.html#LiSHG19</url>
+</article>
+</r>
+<r>
+<article key="journals/sensors/HuangZG19" mdate="2019-06-02">
+<author pid="222/0403">Peihuang Huang</author>
+<author pid="80/773">Wenxing Zhu</author>
+<author pid="95/9687">Longkun Guo</author>
+<title>Optimizing Movement for Maximizing Lifetime of Mobile Sensors for Covering Targets on a Line.</title>
+<pages>273</pages>
+<year>2019</year>
+<volume>19</volume>
+<journal>Sensors</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.3390/s19020273</ee>
+<ee>https://www.wikidata.org/entity/Q61797169</ee>
+<url>db/journals/sensors/sensors19.html#HuangZG19</url>
+</article>
+</r>
+<r>
+<article key="journals/tcs/GuoLX19" mdate="2023-09-30">
+<author orcid="0000-0003-2891-4253" pid="95/9687">Longkun Guo</author>
+<author pid="82/0-28">Min Li 0028</author>
+<author orcid="0000-0002-7846-0969" pid="73/41">Dachuan Xu</author>
+<title>Efficient approximation algorithms for maximum coverage with group budget constraints.</title>
+<pages>53-65</pages>
+<year>2019</year>
+<volume>788</volume>
+<journal>Theor. Comput. Sci.</journal>
+<ee>https://doi.org/10.1016/j.tcs.2019.02.015</ee>
+<url>db/journals/tcs/tcs788.html#GuoLX19</url>
+</article>
+</r>
+<r>
+<inproceedings key="conf/aaim/JiXGLZ19" mdate="2023-09-30">
+<author pid="92/6923">Sai Ji</author>
+<author orcid="0000-0002-7846-0969" pid="73/41">Dachuan Xu</author>
+<author pid="95/9687">Longkun Guo</author>
+<author pid="82/0-28">Min Li 0028</author>
+<author pid="87/461-2">Dongmei Zhang 0002</author>
+<title>The Seeding Algorithm for Spherical k-Means Clustering with Penalties.</title>
+<pages>149-158</pages>
+<year>2019</year>
+<booktitle>AAIM</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-27195-4_14</ee>
+<crossref>conf/aaim/2019</crossref>
+<url>db/conf/aaim/aaim2019.html#JiXGLZ19</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/besc/ChenHG19" mdate="2020-02-05">
+<author pid="49/6574">Yi Chen</author>
+<author pid="222/0403">Peihuang Huang</author>
+<author pid="95/9687">Longkun Guo</author>
+<title>Evaluating Connection Quality between Two Individuals in Social Networks.</title>
+<pages>1-6</pages>
+<year>2019</year>
+<booktitle>BESC</booktitle>
+<ee>https://doi.org/10.1109/BESC48373.2019.8963527</ee>
+<crossref>conf/besc/2019</crossref>
+<url>db/conf/besc/besc2019.html#ChenHG19</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/bigdataconf/Sun0LSGZ0C19" mdate="2024-05-07">
+<author pid="33/2079">Hongyu Sun</author>
+<author pid="97/6589-1">Qiang He 0001</author>
+<author orcid="0000-0003-0371-6525" pid="04/8278">Kewen Liao</author>
+<author orcid="0000-0002-9067-5639" pid="s/TimosKSellis">Timos Sellis</author>
+<author pid="95/9687">Longkun Guo</author>
+<author orcid="0000-0001-7353-4159" pid="54/8558">Xuyun Zhang</author>
+<author orcid="0000-0002-9403-7140" pid="48/5700-1">Jun Shen 0001</author>
+<author pid="61/7690-1">Feifei Chen 0001</author>
+<title>Fast Anomaly Detection in Multiple Multi-Dimensional Data Streams.</title>
+<pages>1218-1223</pages>
+<year>2019</year>
+<booktitle>IEEE BigData</booktitle>
+<ee>https://doi.org/10.1109/BigData47090.2019.9006354</ee>
+<crossref>conf/bigdataconf/2019</crossref>
+<url>db/conf/bigdataconf/bigdataconf2019.html#Sun0LSGZ0C19</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/cocoa/YangXGZ19" mdate="2023-09-30">
+<author pid="245/4073">Ruiqi Yang</author>
+<author orcid="0000-0002-7846-0969" pid="73/41">Dachuan Xu</author>
+<author pid="95/9687">Longkun Guo</author>
+<author pid="87/461-2">Dongmei Zhang 0002</author>
+<title>Sequence Submodular Maximization Meets Streaming.</title>
+<pages>565-575</pages>
+<year>2019</year>
+<booktitle>COCOA</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-36412-0_46</ee>
+<crossref>conf/cocoa/2019</crossref>
+<url>db/conf/cocoa/cocoa2019.html#YangXGZ19</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/csonet/GuoWYZ19" mdate="2022-07-12">
+<author pid="95/9687">Longkun Guo</author>
+<author pid="97/2027">Chenchen Wu</author>
+<author pid="252/8046">Huahui Yu</author>
+<author pid="63/4485-1">Xiaoyan Zhang 0001</author>
+<title>Strategy-Proof Cost-Sharing Mechanism Design for a Generalized Cover-Sets Problem (Extended Abstract).</title>
+<pages>77-78</pages>
+<year>2019</year>
+<booktitle>CSoNet</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-34980-6_10</ee>
+<crossref>conf/csonet/2019</crossref>
+<url>db/conf/csonet/csonet2019.html#GuoWYZ19</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/ispa/Wang0ZCG19" mdate="2024-10-06">
+<author orcid="0000-0002-8117-8139" pid="58/7757">Haijiang Wang</author>
+<author pid="75/7811-3">Yun Ma 0003</author>
+<author pid="14/7437">Xianghan Zheng</author>
+<author pid="89/120-2">Xing Chen 0002</author>
+<author pid="95/9687">Longkun Guo</author>
+<title>Self-Adaptive Resource Management Framework for Software Services in Cloud.</title>
+<pages>1528-1529</pages>
+<year>2019</year>
+<booktitle>ISPA/BDCloud/SocialCom/SustainCom</booktitle>
+<ee>https://doi.org/10.1109/ISPA-BDCloud-SustainCom-SocialCom48970.2019.00223</ee>
+<crossref>conf/ispa/2019</crossref>
+<url>db/conf/ispa/ispa2019.html#Wang0ZCG19</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/paap/MaLGW19" mdate="2020-10-25">
+<author orcid="0000-0003-4868-5750" pid="257/0919">Zijing Ma</author>
+<author pid="167/3808">Shuangjuan Li</author>
+<author pid="95/9687">Longkun Guo</author>
+<author pid="74/4514">Guohua Wang</author>
+<title>Non-linear K-Barrier Coverage in Mobile Sensor Network.</title>
+<pages>12-23</pages>
+<year>2019</year>
+<booktitle>PAAP</booktitle>
+<ee>https://doi.org/10.1007/978-981-15-2767-8_2</ee>
+<crossref>conf/paap/2019</crossref>
+<url>db/conf/paap/paap2019.html#MaLGW19</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/paap/HaoGYHP19" mdate="2020-01-27">
+<author pid="257/0928">Zhendong Hao</author>
+<author pid="95/9687">Longkun Guo</author>
+<author pid="177/7288">Pei Yao</author>
+<author pid="222/0403">Peihuang Huang</author>
+<author pid="257/0912">Huihong Peng</author>
+<title>Efficient Algorithms for Constrained Clustering with Side Information.</title>
+<pages>275-286</pages>
+<year>2019</year>
+<booktitle>PAAP</booktitle>
+<ee>https://doi.org/10.1007/978-981-15-2767-8_25</ee>
+<crossref>conf/paap/2019</crossref>
+<url>db/conf/paap/paap2019.html#HaoGYHP19</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/pdcat/ZouGH19" mdate="2020-03-22">
+<author pid="156/2437">Wenjie Zou</author>
+<author pid="95/9687">Longkun Guo</author>
+<author pid="222/0403">Peihuang Huang</author>
+<title>Min-Max Movement of Sink-Based Mobile Sensors in the Plane for Barrier Coverage.</title>
+<pages>1-6</pages>
+<year>2019</year>
+<booktitle>PDCAT</booktitle>
+<ee>https://doi.org/10.1109/PDCAT46702.2019.00012</ee>
+<crossref>conf/pdcat/2019</crossref>
+<url>db/conf/pdcat/pdcat2019.html#ZouGH19</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/tamc/HuangZG19" mdate="2019-04-11">
+<author pid="222/0403">Peihuang Huang</author>
+<author pid="80/773">Wenxing Zhu</author>
+<author pid="95/9687">Longkun Guo</author>
+<title>On the Complexity of and Algorithms for Min-Max Target Coverage On a Line Boundary.</title>
+<pages>313-324</pages>
+<year>2019</year>
+<booktitle>TAMC</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-14812-6_19</ee>
+<crossref>conf/tamc/2019</crossref>
+<url>db/conf/tamc/tamc2019.html#HuangZG19</url>
+</inproceedings>
+</r>
+<r>
+<article key="journals/access/HuangZLSYG18" mdate="2025-01-19">
+<author pid="222/0403">Peihuang Huang</author>
+<author orcid="0000-0002-8698-0024" pid="80/773">Wenxing Zhu</author>
+<author orcid="0000-0003-0371-6525" pid="04/8278">Kewen Liao</author>
+<author orcid="0000-0002-9067-5639" pid="s/TimosKSellis">Timos Sellis</author>
+<author orcid="0000-0002-2051-9462" pid="25/4656-1">Zhiyong Yu 0001</author>
+<author orcid="0000-0003-2891-4253" pid="95/9687">Longkun Guo</author>
+<title>Efficient Algorithms for Flexible Sweep Coverage in Crowdsensing.</title>
+<pages>50055-50065</pages>
+<year>2018</year>
+<volume>6</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2018.2868931</ee>
+<ee>https://www.wikidata.org/entity/Q129288071</ee>
+<url>db/journals/access/access6.html#HuangZLSYG18</url>
+</article>
+</r>
+<r>
+<article key="journals/jsjkx/ZhouYGG018" mdate="2022-07-11">
+<author pid="00/5012">Jie Zhou</author>
+<author pid="25/4656-1">Zhiyong Yu 0001</author>
+<author pid="10/2272">Wenzhong Guo</author>
+<author pid="95/9687">Longkun Guo</author>
+<author pid="47/11240-5">Weiping Zhu 0005</author>
+<title>"t-时隙k-覆盖"群智感知任务的参与者选择方法 (Participant Selection Algorithm for t-Sweep k-Coverage Crowd Sensing Tasks).</title>
+<pages>157-164</pages>
+<year>2018</year>
+<volume>45</volume>
+<journal>计算机科学</journal>
+<number>2</number>
+<ee type="oa">https://doi.org/10.11896/j.issn.1002-137X.2018.02.028</ee>
+<ee type="oa">http://www.jsjkx.com/EN/10.11896/j.issn.1002-137X.2018.02.028</ee>
+<url>db/journals/jsjkx/jsjkx45.html#ZhouYGG018</url>
+</article>
+</r>
+<r>
+<article key="journals/www/YuZGGY18" mdate="2023-08-28">
+<author orcid="0000-0002-2051-9462" pid="25/4656-1">Zhiyong Yu 0001</author>
+<author pid="00/5012">Jie Zhou</author>
+<author pid="10/2272">Wenzhong Guo</author>
+<author pid="95/9687">Longkun Guo</author>
+<author orcid="0000-0002-9905-3238" pid="z/YuZhiwen">Zhiwen Yu 0001</author>
+<title>Participant selection for t-sweep k-coverage crowd sensing tasks.</title>
+<pages>741-758</pages>
+<year>2018</year>
+<volume>21</volume>
+<journal>World Wide Web</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s11280-017-0481-x</ee>
+<ee>https://www.wikidata.org/entity/Q114389238</ee>
+<url>db/journals/www/www21.html#YuZGGY18</url>
+</article>
+</r>
+<r>
+<inproceedings key="conf/cocoon/DengGH18" mdate="2018-06-29">
+<author pid="222/0445">Yunyun Deng</author>
+<author pid="95/9687">Longkun Guo</author>
+<author pid="222/0403">Peihuang Huang</author>
+<title>Exact Algorithms for Finding Partial Edge-Disjoint Paths.</title>
+<pages>14-25</pages>
+<year>2018</year>
+<booktitle>COCOON</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-94776-1_2</ee>
+<crossref>conf/cocoon/2018</crossref>
+<url>db/conf/cocoon/cocoon2018.html#DengGH18</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/dexa/0001QG18" mdate="2020-09-05">
+<author orcid="0000-0002-4758-9911" pid="148/7274">Yihong Zhang 0001</author>
+<author pid="16/262">Yongrui Qin</author>
+<author pid="95/9687">Longkun Guo</author>
+<title>Constructing Multiple Domain Taxonomy for Text Processing Tasks.</title>
+<pages>501-509</pages>
+<year>2018</year>
+<booktitle>DEXA (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-98812-2_46</ee>
+<crossref>conf/dexa/2018-2</crossref>
+<url>db/conf/dexa/dexa2018-2.html#0001QG18</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/ijcai/GuoDLHSH18" mdate="2020-03-09">
+<author pid="95/9687">Longkun Guo</author>
+<author pid="222/0445">Yunyun Deng</author>
+<author pid="04/8278">Kewen Liao</author>
+<author pid="97/6589-1">Qiang He 0001</author>
+<author pid="s/TimosKSellis">Timos Sellis</author>
+<author pid="222/7909">Zheshan Hu</author>
+<title>A Fast Algorithm for Optimally Finding Partially Disjoint Shortest Paths.</title>
+<pages>1456-1462</pages>
+<year>2018</year>
+<booktitle>IJCAI</booktitle>
+<ee type="oa">https://doi.org/10.24963/ijcai.2018/202</ee>
+<crossref>conf/ijcai/2018</crossref>
+<url>db/conf/ijcai/ijcai2018.html#GuoDLHSH18</url>
+</inproceedings>
+</r>
+<r>
+<article key="journals/ijcomsys/HeSGL17" mdate="2020-07-30">
+<author pid="33/4550">Ping He</author>
+<author pid="74/3247-1">Hong Shen 0001</author>
+<author pid="95/9687">Longkun Guo</author>
+<author orcid="0000-0003-2965-6196" pid="40/7652">Yidong Li</author>
+<title>Efficient data retrieval algorithms for multiple requests in MIMO wireless networks.</title>
+<year>2017</year>
+<volume>30</volume>
+<journal>Int. J. Commun. Syst.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1002/dac.2917</ee>
+<url>db/journals/ijcomsys/ijcomsys30.html#HeSGL17</url>
+</article>
+</r>
+<r>
+<article key="journals/tmc/GuoSZ17" mdate="2018-06-20">
+<author pid="95/9687">Longkun Guo</author>
+<author orcid="0000-0002-3663-6591" pid="74/3247-1">Hong Shen 0001</author>
+<author pid="80/773">Wenxing Zhu</author>
+<title>Efficient Approximation Algorithms for Multi-Antennae Largest Weight Data Retrieval.</title>
+<pages>3320-3333</pages>
+<year>2017</year>
+<volume>16</volume>
+<journal>IEEE Trans. Mob. Comput.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TMC.2017.2696009</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TMC.2017.2696009</ee>
+<url>db/journals/tmc/tmc16.html#GuoSZ17</url>
+</article>
+</r>
+<r>
+<article key="journals/tpds/GuoS17" mdate="2020-10-02">
+<author orcid="0000-0003-2891-4253" pid="95/9687">Longkun Guo</author>
+<author orcid="0000-0002-3663-6591" pid="74/3247-1">Hong Shen 0001</author>
+<title>Efficient Approximation Algorithms for the Bounded Flexible Scheduling Problem in Clouds.</title>
+<pages>3511-3520</pages>
+<year>2017</year>
+<volume>28</volume>
+<journal>IEEE Trans. Parallel Distributed Syst.</journal>
+<number>12</number>
+<ee>https://doi.org/10.1109/TPDS.2017.2731843</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TPDS.2017.2731843</ee>
+<url>db/journals/tpds/tpds28.html#GuoS17</url>
+</article>
+</r>
+<r>
+<inproceedings key="conf/cocoa/YaoG17" mdate="2017-12-06">
+<author pid="177/7288">Pei Yao</author>
+<author pid="95/9687">Longkun Guo</author>
+<title>Fast Approximation Algorithms for Computing Constrained Minimum Spanning Trees.</title>
+<pages>103-110</pages>
+<year>2017</year>
+<booktitle>COCOA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-71150-8_9</ee>
+<crossref>conf/cocoa/2017-1</crossref>
+<url>db/conf/cocoa/cocoa2017-1.html#YaoG17</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/cocoa/GuoL17" mdate="2017-12-06">
+<author pid="95/9687">Longkun Guo</author>
+<author pid="83/6353">Peng Li</author>
+<title>On the Complexity of Detecting k-Length Negative Cost Cycles.</title>
+<pages>240-250</pages>
+<year>2017</year>
+<booktitle>COCOA (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-71150-8_21</ee>
+<crossref>conf/cocoa/2017-1</crossref>
+<url>db/conf/cocoa/cocoa2017-1.html#GuoL17</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/cocoa/GuoLX17" mdate="2023-09-30">
+<author pid="95/9687">Longkun Guo</author>
+<author pid="82/0-28">Min Li 0028</author>
+<author orcid="0000-0002-7846-0969" pid="73/41">Dachuan Xu</author>
+<title>Approximation Algorithms for Maximum Coverage with Group Budget Constraints.</title>
+<pages>362-376</pages>
+<year>2017</year>
+<booktitle>COCOA (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-71147-8_25</ee>
+<crossref>conf/cocoa/2017-2</crossref>
+<url>db/conf/cocoa/cocoa2017-2.html#GuoLX17</url>
+</inproceedings>
+</r>
+<r>
+<article publtype="informal" key="journals/corr/GuoS17" mdate="2018-08-13">
+<author pid="95/9687">Longkun Guo</author>
+<author pid="74/3247-1">Hong Shen 0001</author>
+<title>Approximation Algorithms for Minimizing Maximum Sensor Movement for Line Barrier Coverage in the Plane.</title>
+<year>2017</year>
+<volume>abs/1706.01623</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1706.01623</ee>
+<url>db/journals/corr/corr1706.html#GuoS17</url>
+</article>
+</r>
+<r>
+<article key="journals/jco/Guo16" mdate="2017-05-18">
+<author pid="95/9687">Longkun Guo</author>
+<title>Efficient approximation algorithms for computing k disjoint constrained shortest paths.</title>
+<pages>144-158</pages>
+<year>2016</year>
+<volume>32</volume>
+<journal>J. Comb. Optim.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10878-015-9934-2</ee>
+<url>db/journals/jco/jco32.html#Guo16</url>
+</article>
+</r>
+<r>
+<inproceedings key="conf/trustcom/GuoS16" mdate="2018-06-20">
+<author pid="95/9687">Longkun Guo</author>
+<author pid="74/3247-1">Hong Shen 0001</author>
+<title>Privacy-Preserving Internet Traffic Publication.</title>
+<pages>884-891</pages>
+<year>2016</year>
+<booktitle>Trustcom/BigDataSE/ISPA</booktitle>
+<ee>https://doi.org/10.1109/TrustCom.2016.0152</ee>
+<crossref>conf/trustcom/2016</crossref>
+<url>db/conf/trustcom/trustcom2016.html#GuoS16</url>
+</inproceedings>
+</r>
+<r>
+<article publtype="informal" key="journals/corr/GuoL16" mdate="2018-08-13">
+<author pid="95/9687">Longkun Guo</author>
+<author pid="83/6353">Peng Li</author>
+<title>NP-Completeness of the Negative k-Cycle Problem.</title>
+<year>2016</year>
+<volume>abs/1603.01925</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1603.01925</ee>
+<url>db/journals/corr/corr1603.html#GuoL16</url>
+</article>
+</r>
+<r>
+<article key="journals/comsis/ChenLZG15" mdate="2019-05-21">
+<author pid="149/0607">Kaizhi Chen</author>
+<author pid="158/1999">Chenjun Lin</author>
+<author pid="05/7488">Shangping Zhong</author>
+<author pid="95/9687">Longkun Guo</author>
+<title>A parallel SRM feature extraction algorithm for steganalysis based on GPU architecture.</title>
+<pages>1345-1359</pages>
+<year>2015</year>
+<volume>12</volume>
+<journal>Comput. Sci. Inf. Syst.</journal>
+<number>4</number>
+<ee type="oa">https://doi.org/10.2298/CSIS140815058C</ee>
+<url>db/journals/comsis/comsis12.html#ChenLZG15</url>
+</article>
+</r>
+<r>
+<article key="journals/jco/GuoSL15" mdate="2018-11-30">
+<author pid="95/9687">Longkun Guo</author>
+<author pid="74/3247-1">Hong Shen 0001</author>
+<author orcid="0000-0003-0371-6525" pid="04/8278">Kewen Liao</author>
+<title>Improved approximation algorithms for computing k disjoint paths subject to two constraints.</title>
+<pages>153-164</pages>
+<year>2015</year>
+<volume>29</volume>
+<journal>J. Comb. Optim.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1007/s10878-013-9693-x</ee>
+<url>db/journals/jco/jco29.html#GuoSL15</url>
+</article>
+</r>
+<r>
+<article key="journals/tcs/LiaoSG15" mdate="2021-02-17">
+<author orcid="0000-0003-0371-6525" pid="04/8278">Kewen Liao</author>
+<author pid="74/3247-1">Hong Shen 0001</author>
+<author pid="95/9687">Longkun Guo</author>
+<title>Improved approximation algorithms for constrained fault-tolerant resource allocation.</title>
+<pages>118-128</pages>
+<year>2015</year>
+<volume>590</volume>
+<journal>Theor. Comput. Sci.</journal>
+<ee type="oa">https://doi.org/10.1016/j.tcs.2015.02.029</ee>
+<url>db/journals/tcs/tcs590.html#LiaoSG15</url>
+</article>
+</r>
+<r>
+<inproceedings key="conf/ica3pp/ZouG15" mdate="2017-05-26">
+<author pid="158/1996">Nianchen Zou</author>
+<author pid="95/9687">Longkun Guo</author>
+<title>Improved Approximating Algorithms for Computing Energy Constrained Minimum Cost Steiner Trees.</title>
+<pages>567-577</pages>
+<year>2015</year>
+<booktitle>ICA3PP (1)</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-27119-4_39</ee>
+<crossref>conf/ica3pp/2015-1</crossref>
+<url>db/conf/ica3pp/ica3pp2015-1.html#ZouG15</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/spaa/GuoLSL15" mdate="2018-11-06">
+<author pid="95/9687">Longkun Guo</author>
+<author orcid="0000-0003-0371-6525" pid="04/8278">Kewen Liao</author>
+<author pid="74/3247-1">Hong Shen 0001</author>
+<author pid="83/6353">Peng Li</author>
+<title>Brief Announcement: Efficient Approximation Algorithms for Computing k Disjoint Restricted Shortest Paths.</title>
+<pages>62-64</pages>
+<year>2015</year>
+<booktitle>SPAA</booktitle>
+<ee>https://doi.org/10.1145/2755573.2755608</ee>
+<crossref>conf/spaa/2015</crossref>
+<url>db/conf/spaa/spaa2015.html#GuoLSL15</url>
+</inproceedings>
+</r>
+<r>
+<article publtype="informal" key="journals/corr/GuoZS15" mdate="2018-08-13">
+<author pid="95/9687">Longkun Guo</author>
+<author pid="80/773">Wenxing Zhu</author>
+<author pid="74/3247-1">Hong Shen 0001</author>
+<title>Efficient Approximation Algorithms for the Largest Weight Data Retrieval Problem.</title>
+<year>2015</year>
+<volume>abs/1504.04679</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1504.04679</ee>
+<url>db/journals/corr/corr1504.html#GuoZS15</url>
+</article>
+</r>
+<r>
+<article publtype="informal" key="journals/corr/GuoLSL15" mdate="2018-08-13">
+<author pid="95/9687">Longkun Guo</author>
+<author pid="04/8278">Kewen Liao</author>
+<author pid="74/3247-1">Hong Shen 0001</author>
+<author pid="83/6353">Peng Li</author>
+<title>Efficient Approximation Algorithms for Computing \emph{k} Disjoint Restricted Shortest Paths.</title>
+<year>2015</year>
+<volume>abs/1504.05519</volume>
+<journal>CoRR</journal>
+<ee type="oa">http://arxiv.org/abs/1504.05519</ee>
+<url>db/journals/corr/corr1504.html#GuoLSL15</url>
+</article>
+</r>
+<r>
+<inproceedings key="conf/faw/Guo14" mdate="2017-05-19">
+<author pid="95/9687">Longkun Guo</author>
+<title>Improved LP-rounding Approximations for the k-Disjoint Restricted Shortest Paths Problem.</title>
+<pages>94-104</pages>
+<year>2014</year>
+<booktitle>FAW</booktitle>
+<ee>https://doi.org/10.1007/978-3-319-08016-1_9</ee>
+<crossref>conf/faw/2014</crossref>
+<url>db/conf/faw/faw2014.html#Guo14</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/paap/GuoZL14" mdate="2023-03-24">
+<author pid="95/9687">Longkun Guo</author>
+<author pid="158/1996">Nianchen Zou</author>
+<author orcid="0000-0003-2965-6196" pid="40/7652">Yidong Li</author>
+<title>Approximating the Shallow-Light Steiner Tree Problem When Cost and Delay are Linearly Dependent.</title>
+<pages>99-103</pages>
+<year>2014</year>
+<booktitle>PAAP</booktitle>
+<ee>https://doi.org/10.1109/PAAP.2014.52</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/PAAP.2014.52</ee>
+<crossref>conf/paap/2014</crossref>
+<url>db/conf/paap/paap2014.html#GuoZL14</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/paap/ChenLZG14" mdate="2023-03-24">
+<author pid="149/0607">Kaizhi Chen</author>
+<author pid="158/1999">Chenjun Lin</author>
+<author pid="05/7488">Shangping Zhong</author>
+<author pid="95/9687">Longkun Guo</author>
+<title>A Parallel SRM Feature Extraction Algorithm for Steganalysis Based on GPU Architecture.</title>
+<pages>178-182</pages>
+<year>2014</year>
+<booktitle>PAAP</booktitle>
+<ee>https://doi.org/10.1109/PAAP.2014.36</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/PAAP.2014.36</ee>
+<crossref>conf/paap/2014</crossref>
+<url>db/conf/paap/paap2014.html#ChenLZG14</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/pdcat/GuoLS14" mdate="2023-03-24">
+<author pid="95/9687">Longkun Guo</author>
+<author orcid="0000-0003-0371-6525" pid="04/8278">Kewen Liao</author>
+<author pid="74/3247-1">Hong Shen 0001</author>
+<title>On the Shallow-Light Steiner Tree Problem.</title>
+<pages>56-60</pages>
+<year>2014</year>
+<booktitle>PDCAT</booktitle>
+<ee>https://doi.org/10.1109/PDCAT.2014.17</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/PDCAT.2014.17</ee>
+<crossref>conf/pdcat/2014</crossref>
+<url>db/conf/pdcat/pdcat2014.html#GuoLS14</url>
+</inproceedings>
+</r>
+<r>
+<article key="journals/algorithmica/GuoS13" mdate="2018-06-20">
+<author pid="95/9687">Longkun Guo</author>
+<author pid="74/3247-1">Hong Shen 0001</author>
+<title>On Finding Min-Min Disjoint Paths.</title>
+<pages>641-653</pages>
+<year>2013</year>
+<volume>66</volume>
+<journal>Algorithmica</journal>
+<number>3</number>
+<ee>https://doi.org/10.1007/s00453-012-9656-0</ee>
+<url>db/journals/algorithmica/algorithmica66.html#GuoS13</url>
+</article>
+</r>
+<r>
+<article key="journals/tc/ShenG13" mdate="2018-06-20">
+<author pid="74/3247-1">Hong Shen 0001</author>
+<author pid="95/9687">Longkun Guo</author>
+<title>An Eight-Approximation Algorithm for Computing Rooted Three-Vertex Connected Minimum Steiner Networks.</title>
+<pages>1684-1693</pages>
+<year>2013</year>
+<volume>62</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>9</number>
+<ee>https://doi.org/10.1109/TC.2012.170</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TC.2012.170</ee>
+<url>db/journals/tc/tc62.html#ShenG13</url>
+</article>
+</r>
+<r>
+<inproceedings key="conf/cocoon/GuoSL13" mdate="2018-11-02">
+<author pid="95/9687">Longkun Guo</author>
+<author pid="74/3247-1">Hong Shen 0001</author>
+<author orcid="0000-0003-0371-6525" pid="04/8278">Kewen Liao</author>
+<title>
+Improved Approximation Algorithms for Computing
+<i>k</i>
+Disjoint Paths Subject to Two Constraints.
+</title>
+<pages>325-336</pages>
+<year>2013</year>
+<booktitle>COCOON</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-38768-5_30</ee>
+<crossref>conf/cocoon/2013</crossref>
+<url>db/conf/cocoon/cocoon2013.html#GuoSL13</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/fct/LiaoSG13" mdate="2018-11-02">
+<author orcid="0000-0003-0371-6525" pid="04/8278">Kewen Liao</author>
+<author pid="74/3247-1">Hong Shen 0001</author>
+<author pid="95/9687">Longkun Guo</author>
+<title>Improved Approximation Algorithms for Constrained Fault-Tolerant Resource Allocation - (Extended Abstract).</title>
+<pages>236-247</pages>
+<year>2013</year>
+<booktitle>FCT</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-40164-0_23</ee>
+<crossref>conf/fct/2013</crossref>
+<url>db/conf/fct/fct2013.html#LiaoSG13</url>
+</inproceedings>
+</r>
+<r>
+<article publtype="informal" key="journals/corr/abs-1301-5070" mdate="2018-08-13">
+<author pid="95/9687">Longkun Guo</author>
+<author pid="74/3247-1">Hong Shen 0001</author>
+<author pid="04/8278">Kewen Liao</author>
+<title>Improved Approximation Algorithms for Computing k Disjoint Paths Subject to Two Constraints</title>
+<ee type="oa">http://arxiv.org/abs/1301.5070</ee>
+<year>2013</year>
+<journal>CoRR</journal>
+<volume>abs/1301.5070</volume>
+<url>db/journals/corr/corr1301.html#abs-1301-5070</url>
+</article>
+</r>
+<r>
+<article key="journals/tc/ShenG12" mdate="2018-06-20">
+<author pid="74/3247-1">Hong Shen 0001</author>
+<author pid="95/9687">Longkun Guo</author>
+<title>Efficient 2-Approximation Algorithms for Computing 2-Connected Steiner Minimal Networks.</title>
+<pages>954-968</pages>
+<year>2012</year>
+<volume>61</volume>
+<journal>IEEE Trans. Computers</journal>
+<number>7</number>
+<ee>https://doi.org/10.1109/TC.2011.123</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/TC.2011.123</ee>
+<url>db/journals/tc/tc61.html#ShenG12</url>
+</article>
+</r>
+<r>
+<article key="journals/tcs/GuoS12" mdate="2021-02-17">
+<author pid="95/9687">Longkun Guo</author>
+<author pid="74/3247-1">Hong Shen 0001</author>
+<title>On the complexity of the edge-disjoint min-min problem in planar digraphs.</title>
+<pages>58-63</pages>
+<year>2012</year>
+<volume>432</volume>
+<journal>Theor. Comput. Sci.</journal>
+<ee type="oa">https://doi.org/10.1016/j.tcs.2011.12.009</ee>
+<url>db/journals/tcs/tcs432.html#GuoS12</url>
+</article>
+</r>
+<r>
+<inproceedings key="conf/pdcat/GuoS12" mdate="2018-06-20">
+<author pid="95/9687">Longkun Guo</author>
+<author pid="74/3247-1">Hong Shen 0001</author>
+<title>Efficient Approximation Algorithms for Computing k-Disjoint Minimum Cost Paths with Delay Constraint.</title>
+<pages>627-631</pages>
+<year>2012</year>
+<booktitle>PDCAT</booktitle>
+<ee>https://doi.org/10.1109/PDCAT.2012.69</ee>
+<crossref>conf/pdcat/2012</crossref>
+<url>db/conf/pdcat/pdcat2012.html#GuoS12</url>
+</inproceedings>
+</r>
+<r>
+<article publtype="informal" key="journals/corr/abs-1208-3835" mdate="2018-08-13">
+<author pid="04/8278">Kewen Liao</author>
+<author pid="74/3247-1">Hong Shen 0001</author>
+<author pid="95/9687">Longkun Guo</author>
+<title>Constrained Fault-Tolerant Resource Allocation</title>
+<ee type="oa">http://arxiv.org/abs/1208.3835</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1208.3835</volume>
+<url>db/journals/corr/corr1208.html#abs-1208-3835</url>
+</article>
+</r>
+<r>
+<article publtype="informal" key="journals/corr/abs-1212-3403" mdate="2018-08-13">
+<author pid="95/9687">Longkun Guo</author>
+<author pid="04/8278">Kewen Liao</author>
+<title>Improved Approximations for Shallow-Light Spanning and Steiner Trees</title>
+<ee type="oa">http://arxiv.org/abs/1212.3403</ee>
+<year>2012</year>
+<journal>CoRR</journal>
+<volume>abs/1212.3403</volume>
+<url>db/journals/corr/corr1212.html#abs-1212-3403</url>
+</article>
+</r>
+<r>
+<inproceedings key="conf/aaim/GuoS11" mdate="2018-06-20">
+<author pid="95/9687">Longkun Guo</author>
+<author pid="74/3247-1">Hong Shen 0001</author>
+<title>Hardness of Finding Two Edge-Disjoint Min-Min Paths in Digraphs.</title>
+<pages>300-307</pages>
+<year>2011</year>
+<booktitle>FAW-AAIM</booktitle>
+<ee>https://doi.org/10.1007/978-3-642-21204-8_32</ee>
+<crossref>conf/aaim/2011</crossref>
+<url>db/conf/aaim/aaim2011.html#GuoS11</url>
+</inproceedings>
+</r>
+<r>
+<inproceedings key="conf/paap/GuoS11" mdate="2023-03-24">
+<author pid="95/9687">Longkun Guo</author>
+<author pid="74/3247-1">Hong Shen 0001</author>
+<title>A Polynomial Algorithm for the Vertex Disjoint Min-Min Problem in Planar Graphs.</title>
+<pages>47-51</pages>
+<year>2011</year>
+<booktitle>PAAP</booktitle>
+<ee>https://doi.org/10.1109/PAAP.2011.15</ee>
+<ee>https://doi.ieeecomputersociety.org/10.1109/PAAP.2011.15</ee>
+<crossref>conf/paap/2011</crossref>
+<url>db/conf/paap/paap2011.html#GuoS11</url>
+</inproceedings>
+</r>
+<coauthors n="119" nc="1">
+<co c="0">
+<na f="c/Chang:Yao=Wen" pid="c/YaoWenChang">Yao-Wen Chang</na>
+</co>
+<co c="0">
+<na f="c/Chen_0001:Feifei" pid="61/7690-1">Feifei Chen 0001</na>
+</co>
+<co c="0">
+<na f="c/Chen:Jianli" pid="68/9945">Jianli Chen</na>
+</co>
+<co c="0">
+<na f="c/Chen:Kaizhi" pid="149/0607">Kaizhi Chen</na>
+</co>
+<co c="0">
+<na f="c/Chen_0002:Xing" pid="89/120-2">Xing Chen 0002</na>
+</co>
+<co c="0">
+<na f="c/Chen:Xinlong" pid="118/7338">Xinlong Chen</na>
+</co>
+<co c="0">
+<na f="c/Chen:Yi" pid="49/6574">Yi Chen</na>
+</co>
+<co c="0" n="2">
+<na f="c/Chen:Yupeng" pid="38/1845">Yupeng Chen</na>
+<na>Yu-Peng Chen</na>
+</co>
+<co c="0">
+<na f="c/Cheng_0001:Eddie" pid="92/6271">Eddie Cheng 0001</na>
+</co>
+<co c="0">
+<na f="c/Chi:Gaojie" pid="374/7680">Gaojie Chi</na>
+</co>
+<co c="0">
+<na f="c/Cui:Min" pid="25/6642">Min Cui</na>
+</co>
+<co c="0">
+<na f="d/Dai:Guowei" pid="13/8619">Guowei Dai</na>
+</co>
+<co c="0">
+<na f="d/Deng:Yunyun" pid="222/0445">Yunyun Deng</na>
+</co>
+<co c="0">
+<na f="d/Du:Ding=Zhu" pid="d/DingZhuDu">Ding-Zhu Du</na>
+</co>
+<co c="0">
+<na f="d/Du:Donglei" pid="66/1131">Donglei Du</na>
+</co>
+<co c="0">
+<na f="f/Fang:Geng=Chao" pid="342/5998">Geng-Chao Fang</na>
+</co>
+<co c="0">
+<na f="f/Fang:Weijie" pid="261/4609">Weijie Fang</na>
+</co>
+<co c="0" n="2">
+<na f="f/Fu:Yanggeng" pid="61/8622">Yanggeng Fu</na>
+<na>Yang-Geng Fu</na>
+</co>
+<co c="0">
+<na f="g/Gao:Jiaquan" pid="78/2677">Jiaquan Gao</na>
+</co>
+<co c="0">
+<na f="g/Gao:Xuening" pid="326/2863">Xuening Gao</na>
+</co>
+<co c="0">
+<na f="g/Guo:Wenzhong" pid="10/2272">Wenzhong Guo</na>
+</co>
+<co c="0">
+<na f="g/Gutin:Gregory_Z=" pid="74/2412">Gregory Z. Gutin</na>
+</co>
+<co c="0">
+<na f="h/Hao:Chunlin" pid="132/0345">Chunlin Hao</na>
+</co>
+<co c="0">
+<na f="h/Hao:Zhendong" pid="257/0928">Zhendong Hao</na>
+</co>
+<co c="0">
+<na f="h/He:Huan" pid="77/3301">Huan He</na>
+</co>
+<co c="0">
+<na f="h/He:Ping" pid="33/4550">Ping He</na>
+</co>
+<co c="0">
+<na f="h/He_0001:Qiang" pid="97/6589-1">Qiang He 0001</na>
+</co>
+<co c="0">
+<na f="h/Hu:Zheshan" pid="222/7909">Zheshan Hu</na>
+</co>
+<co c="0">
+<na f="h/Huang:Fangwan" pid="211/4136">Fangwan Huang</na>
+</co>
+<co c="0">
+<na f="h/Huang:Min=Ming" pid="375/8430">Min-Ming Huang</na>
+</co>
+<co c="0">
+<na f="h/Huang:Peihuang" pid="222/0403">Peihuang Huang</na>
+</co>
+<co c="0">
+<na f="h/Huang_0001:Qiong" pid="58/5215-1">Qiong Huang 0001</na>
+</co>
+<co c="0">
+<na f="h/Huang:Xinyang" pid="02/4954">Xinyang Huang</na>
+</co>
+<co c="0">
+<na f="h/Huang_0009:Zhipeng" pid="229/4173">Zhipeng Huang 0009</na>
+</co>
+<co c="0">
+<na f="j/Ji:Sai" pid="92/6923">Sai Ji</na>
+</co>
+<co c="0">
+<na f="j/Jia:Chaoqi" pid="367/4046">Chaoqi Jia</na>
+</co>
+<co c="0">
+<na f="j/Jiang:Lanfan" pid="282/6001">Lanfan Jiang</na>
+</co>
+<co c="0">
+<na f="l/Le:Chengpei" pid="274/8555">Chengpei Le</na>
+</co>
+<co c="0">
+<na f="l/Li:Bingshi" pid="350/2553">Bingshi Li</na>
+</co>
+<co c="0">
+<na f="l/Li_0032:Jin" pid="48/1097-32">Jin Li 0032</na>
+</co>
+<co c="0">
+<na f="l/Li_0028:Min" pid="82/0-28">Min Li 0028</na>
+</co>
+<co c="0">
+<na f="l/Li:Peng" pid="83/6353">Peng Li</na>
+</co>
+<co c="0">
+<na f="l/Li:Shuangjuan" pid="167/3808">Shuangjuan Li</na>
+</co>
+<co c="0">
+<na f="l/Li:Yidong" pid="40/7652">Yidong Li</na>
+</co>
+<co c="0">
+<na f="l/Liao:Kewen" pid="04/8278">Kewen Liao</na>
+</co>
+<co c="0">
+<na f="l/Liao:Zhibin" pid="139/3889">Zhibin Liao</na>
+</co>
+<co c="0">
+<na f="l/Lin:Binwei" pid="325/8460">Binwei Lin</na>
+</co>
+<co c="0">
+<na f="l/Lin:Chenjun" pid="158/1999">Chenjun Lin</na>
+</co>
+<co c="0">
+<na f="l/Lin:Geng" pid="00/5299">Geng Lin</na>
+</co>
+<co c="0">
+<na f="l/Lin:Jiawei" pid="183/4389">Jiawei Lin</na>
+</co>
+<co c="0">
+<na f="l/Lin:Zeyu" pid="313/5235">Zeyu Lin</na>
+</co>
+<co c="0">
+<na f="l/Liu:Genggeng" pid="54/10149">Genggeng Liu</na>
+</co>
+<co c="0">
+<na f="l/Liu:Lei" pid="21/2715">Lei Liu</na>
+</co>
+<co c="0">
+<na f="l/Liu:Wanling" pid="193/8475">Wanling Liu</na>
+</co>
+<co c="0">
+<na f="l/Liu:Yong=Yu" pid="342/5371">Yong-Yu Liu</na>
+</co>
+<co c="0">
+<na f="l/Liu:Zhicheng" pid="53/1020">Zhicheng Liu</na>
+</co>
+<co c="0">
+<na f="l/Lu_0001:Zhigang" pid="91/7802-1">Zhigang Lu 0001</na>
+</co>
+<co c="0">
+<na f="l/Luo:Haibo" pid="28/2663">Haibo Luo</na>
+</co>
+<co c="0">
+<na f="m/Ma_0003:Yun" pid="75/7811-3">Yun Ma 0003</na>
+</co>
+<co c="0">
+<na f="m/Ma:Zijing" pid="257/0919">Zijing Ma</na>
+</co>
+<co c="0">
+<na f="m/Mao:Yaping" pid="117/3543">Yaping Mao</na>
+</co>
+<co c="0">
+<na f="m/Mei:Hengquan" pid="310/1095">Hengquan Mei</na>
+</co>
+<co c="0">
+<na f="p/Peng:Huihong" pid="257/0912">Huihong Peng</na>
+</co>
+<co c="0">
+<na f="q/Qin:Yongrui" pid="16/262">Yongrui Qin</na>
+</co>
+<co c="0" n="2">
+<na f="s/Sellis:Timos_K=" pid="s/TimosKSellis">Timos K. Sellis</na>
+<na>Timos Sellis</na>
+</co>
+<co c="0">
+<na f="s/Shen_0001:Hong" pid="74/3247-1">Hong Shen 0001</na>
+</co>
+<co c="0">
+<na f="s/Shen_0001:Jun" pid="48/5700-1">Jun Shen 0001</na>
+</co>
+<co c="0">
+<na f="s/Sun:Hongyu" pid="33/2079">Hongyu Sun</na>
+</co>
+<co c="0">
+<na f="s/Sun:Long" pid="151/4095">Long Sun</na>
+</co>
+<co c="0">
+<na f="s/Sun:Xin" pid="20/3535">Xin Sun</na>
+</co>
+<co c="0">
+<na f="t/Tan:Jingjing" pid="138/4227">Jingjing Tan</na>
+</co>
+<co c="0">
+<na f="t/Tian:Xiaoyun" pid="271/9697">Xiaoyun Tian</na>
+</co>
+<co c="0">
+<na f="t/Tseng:Yu=Wei" pid="229/4264">Yu-Wei Tseng</na>
+</co>
+<co c="0">
+<na f="w/Wang:Bingshu" pid="50/301">Bingshu Wang</na>
+</co>
+<co c="0">
+<na f="w/Wang:Guohua" pid="74/4514">Guohua Wang</na>
+</co>
+<co c="0">
+<na f="w/Wang:Haijiang" pid="58/7757">Haijiang Wang</na>
+</co>
+<co c="0">
+<na f="w/Wang:Linyang" pid="285/9605">Linyang Wang</na>
+</co>
+<co c="0">
+<na f="w/Wang_0001:Ying=Ming" pid="59/605-1">Ying-Ming Wang 0001</na>
+</co>
+<co c="0">
+<na f="w/Wang:Yishui" pid="153/1959">Yishui Wang</na>
+</co>
+<co c="0">
+<na f="w/Wei:Wencheng" pid="285/9595">Wencheng Wei</na>
+</co>
+<co c="0">
+<na f="w/Wu:Chenchen" pid="97/2027">Chenchen Wu</na>
+</co>
+<co c="0">
+<na f="w/Wu:Dan" pid="19/5635">Dan Wu</na>
+</co>
+<co c="0">
+<na f="x/Xia:Fenghe" pid="386/3687">Fenghe Xia</na>
+</co>
+<co c="0">
+<na f="x/Xiao_0005:Di" pid="43/5467-5">Di Xiao 0005</na>
+</co>
+<co c="0">
+<na f="x/Xing:Bin" pid="73/6587">Bin Xing</na>
+</co>
+<co c="0">
+<na f="x/Xiong:Silu" pid="357/4995">Silu Xiong</na>
+</co>
+<co c="0">
+<na f="x/Xu:Dachuan" pid="73/41">Dachuan Xu</na>
+</co>
+<co c="0">
+<na f="x/Xu:Ge" pid="06/8656">Ge Xu</na>
+</co>
+<co c="0">
+<na f="x/Xu:Jiacen" pid="224/4836">Jiacen Xu</na>
+</co>
+<co c="0">
+<na f="x/Xu:Shuling" pid="287/9392">Shuling Xu</na>
+</co>
+<co c="0">
+<na f="x/Xu:Xuanming" pid="232/4803">Xuanming Xu</na>
+</co>
+<co c="0">
+<na f="x/Xue_0001:Minhui" pid="166/1912">Minhui Xue 0001</na>
+</co>
+<co c="0">
+<na f="y/Yang:Ruiqi" pid="245/4073">Ruiqi Yang</na>
+</co>
+<co c="0">
+<na f="y/Yao:Pei" pid="177/7288">Pei Yao</na>
+</co>
+<co c="0">
+<na f="y/Yu:Huahui" pid="252/8046">Huahui Yu</na>
+</co>
+<co c="0">
+<na f="y/Yu:Jiguo" pid="34/25">Jiguo Yu</na>
+</co>
+<co c="0">
+<na f="y/Yu_0001:Zhiwen" pid="z/YuZhiwen">Zhiwen Yu 0001</na>
+</co>
+<co c="0">
+<na f="y/Yu_0001:Zhiyong" pid="25/4656-1">Zhiyong Yu 0001</na>
+</co>
+<co c="0">
+<na f="z/Zhang_0002:Dongmei" pid="87/461-2">Dongmei Zhang 0002</na>
+</co>
+<co c="0">
+<na f="z/Zhang:Hongxiang" pid="179/3197">Hongxiang Zhang</na>
+</co>
+<co c="0">
+<na f="z/Zhang:Jianshan" pid="234/7991">Jianshan Zhang</na>
+</co>
+<co c="0">
+<na f="z/Zhang:Qirong" pid="01/5196">Qirong Zhang</na>
+</co>
+<co c="0">
+<na f="z/Zhang_0001:Xiaoyan" pid="63/4485-1">Xiaoyan Zhang 0001</na>
+</co>
+<co c="0">
+<na f="z/Zhang:Xuyun" pid="54/8558">Xuyun Zhang</na>
+</co>
+<co c="0">
+<na f="z/Zhang_0001:Yihong" pid="148/7274">Yihong Zhang 0001</na>
+</co>
+<co c="0">
+<na f="z/Zhang:Yunchao" pid="245/6006">Yunchao Zhang</na>
+</co>
+<co c="0">
+<na f="z/Zhang:Zan=Bo" pid="21/6313">Zan-Bo Zhang</na>
+</co>
+<co c="0">
+<na f="z/Zhang:Zhenning" pid="147/1584">Zhenning Zhang</na>
+</co>
+<co c="0">
+<na f="z/Zheng:Xianghan" pid="14/7437">Xianghan Zheng</na>
+</co>
+<co c="0">
+<na f="z/Zhong:Shangping" pid="05/7488">Shangping Zhong</na>
+</co>
+<co c="0">
+<na f="z/Zhong:Yuting" pid="282/1696">Yuting Zhong</na>
+</co>
+<co c="0">
+<na f="z/Zhou:Jie" pid="00/5012">Jie Zhou</na>
+</co>
+<co c="0">
+<na f="z/Zhu_0005:Weiping" pid="47/11240-5">Weiping Zhu 0005</na>
+</co>
+<co c="0">
+<na f="z/Zhu:Wenxing" pid="80/773">Wenxing Zhu</na>
+</co>
+<co c="0">
+<na f="z/Zhu:Ziran" pid="193/3138">Ziran Zhu</na>
+</co>
+<co c="0">
+<na f="z/Zhuang:Jin=Hui" pid="278/3253">Jin-Hui Zhuang</na>
+</co>
+<co c="0">
+<na f="z/Zou:Juan" pid="68/8544">Juan Zou</na>
+</co>
+<co c="0">
+<na f="z/Zou:Nianchen" pid="158/1996">Nianchen Zou</na>
+</co>
+<co c="0">
+<na f="z/Zou:Wenjie" pid="156/2437">Wenjie Zou</na>
+</co>
+</coauthors>
+</dblpperson>
