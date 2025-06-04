@@ -17,6 +17,7 @@ Approximation algorithm design, Computational complexity, Optimization in data s
 
 Representative Journal Articles :
 ======
+- Fang, Weijie, Yanggeng Fu, Jiaquan Gao, **Longkun Guo**, Gregory Gutin, and Xiaoyan Zhang. "Acceleration of Timing-Aware Gate-Level Logic Simulation Through One-Pass GPU Parallelism." [IEEE Trans. Comput.]() (2025).
 - Pei Yao (Supervised student), **Longkun Guo***, Peng Li, Jiawei Lin: Optimal Algorithm for Min-Max Line Barrier Coverage with Mobile Sensors on 2-Dimensional Plane. *[Comput. Networks](https://dblp.uni-trier.de/db/journals/cn/cn228.html#YaoGLL23)* 228: 109717 (2023)
 - Wenjie Zou (Supervised student), **Longkun Guo***, Chunlin Hao, Lei Liu: Approximation algorithm for MinSum linear barrier coverage with sink-based mobile sensors on the plane. _[Theor. Comput. Sci.](https://dblp.org/db/journals/tcs/tcs941.html#ZouGHL23)_ 941: 121-130 (2023)
 - Guowei Dai, **Longkun Guo**, Gregory Z. Gutin, Xiaoyan Zhang, Zan-Bo Zhang: Iterative Message Passing Algorithm for Vertex-Disjoint Shortest Paths. _[IEEE Trans. Inf. Theory](https://dblp.org/db/journals/tit/tit68.html#DaiGGZZ22)_ 68(6): 3870-3878 (2022)
@@ -44,6 +45,8 @@ Representative Conference Articles :
 
 Program(s)
 ------
+
+
 <!-- The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
 Create content & metadata
