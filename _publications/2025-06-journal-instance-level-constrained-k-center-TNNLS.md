@@ -6,7 +6,6 @@ permalink: /publications/2025-06-journal-instance-level-constrained-k-center-TNN
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.It is updated.'
 date: 2025-06
 venue: 'Journal 1'
-# slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11038987&casa_token=Kh8CPmhhRNYAAAAA:2ohqQfri9aa3PnHm-Rs-qSmWgHtnlgJsiFvsFM2X14mCq1x13neZqkMkvlv6YgEBQi-KwYma7w&tag=1'
 bibtexurl: 'https://longkunguo.github.io/files/bibtex1.bib'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
