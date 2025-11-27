@@ -8,6 +8,5 @@ date: 2025-06-17
 venue: 'Journal 1'
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11038987&casa_token=Kh8CPmhhRNYAAAAA:2ohqQfri9aa3PnHm-Rs-qSmWgHtnlgJsiFvsFM2X14mCq1x13neZqkMkvlv6YgEBQi-KwYma7w&tag=1'
 bibtexurl: 'https://longkunguo.github.io/files/2025-TNNLS.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'L. Guo, C. Jia, K. Liao, Z. Lu and M. Xue, "Near-Optimal Algorithms for Instance-Level Constrained k-Center Clustering," in IEEE Transactions on Neural Networks and Learning Systems, vol. 36, no. 10, pp. 18844-18858, Oct. 2025.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
