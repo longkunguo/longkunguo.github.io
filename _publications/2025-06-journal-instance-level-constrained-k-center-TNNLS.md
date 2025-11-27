@@ -3,7 +3,6 @@ title: "Near-optimal algorithms for instance-level constrained k-center clusteri
 collection: publications
 category: journal
 permalink: /publications/2025-06-journal-instance-level-constrained-k-center-TNNLS
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.It is updated.'
 date: 2025-06-17
 venue: 'Journal 1'
 paperurl: '[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11038987&casa_token=Kh8CPmhhRNYAAAAA:2ohqQfri9aa3PnHm-Rs-qSmWgHtnlgJsiFvsFM2X14mCq1x13neZqkMkvlv6YgEBQi-KwYma7w&tag=1)'
