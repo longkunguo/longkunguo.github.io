@@ -28,6 +28,8 @@ Representative Journal Articles :
 
 Representative Conference Articles :
 ======
+- Chaoqi Jia, Longkun Guo*, Kewen Liao, Zhigang Lu, Chao Chen, Minhui Xue, Approximation Algorithm for Constrained -Center Clustering: A Local Search Approach,  Proceedings of the 40th AAAI Conference on Artificial Intelligence (AAAI-26), accepted, Singapore. (**CCF A, core A***, Oral paper)
+  
 - Weijie Fang, **Longkun Guo\***, Jiawei Lin, Silu Xiong, Huan He, Jiacen Xu, Jianli Chen: **Obstacle-Aware Length-Matching Routing for Any-Direction Traces in Printed Circuit Board**, In Proceedings of *[the 61st ACM/IEEE Design Automation Conference (DAC-24)](https://61dac.conference-program.com/)*, Moscone West, San Francisco, USA. **(CCF A**)
   
 - **Longkun Guo**, Chaoqi Jia, Kewen Liao, Zhigang Lu, Minhui Xue: **Efficient Constrained k-Center Clustering with Background Knowledge**, In *Proceedings of* [*the 38th AAAI Conference on Artificial Intelligence (AAAI-24)*](https://aaai.org/aaai-conference/), Vancouver, Canada, pp. 20709-20717.
