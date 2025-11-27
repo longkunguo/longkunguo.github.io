@@ -1,7 +1,7 @@
 ---
 title: "Approximation algorithm for MinSum linear barrier coverage with sink-based mobile sensors on the plane"
 collection: publications
-permalink: /publication/2023-tcs-minsum-barrier-coverage
+permalink: https://longkunguo.github.io/publications/publications/paper1
 date: 2023-01-01
 venue: 'Theor. Comput. Sci.'
 paperurl: 'https://dblp.org/db/journals/tcs/tcs941.html#ZouGHL23'
